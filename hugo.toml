@@ -1,0 +1,23 @@
+baseURL = "http://localhost:1313/"
+title = "Vachanamrut"
+theme = "hugo-book"
+
+defaultContentLanguage = "en"
+
+[params]
+  # BookSection = "docs"      # Use content/docs for sidebar menu
+  BookTheme = "light"       # Light mode (clean white background)
+  BookSearch = true         # Enable search bar
+  BookPortableLinks = true  # Offline caching (optional)
+
+  [[menu.main]]
+  name = "ગઢડા પ્રથમ (૭૮)"
+  url = "/docs/vachanamrut/gadhada-pratham/"
+  weight = 1
+
+[[menu.main]]
+  name = "સારંગપુર (૧૮)"
+  url = "/docs/vachanamrut/sarangpur/"
+  weight = 2
+
+  

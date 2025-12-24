@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>પરથારો on Vachanamrut</title>
+    <link>http://localhost:1313/docs/vachanamrut/partharo/</link>
+    <description>Recent content in પરથારો on Vachanamrut</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/vachanamrut/partharo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>૧</title>
+      <link>http://localhost:1313/docs/vachanamrut/partharo/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/vachanamrut/partharo/1/</guid>
+      <description>&lt;div class=&#34;vachanamrut-tabs&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;main-tab-buttons&#34;&gt;&#xD;&#xA;    &lt;button class=&#34;active&#34; onclick=&#34;openMainTab(event, &#39;harivakya&#39;)&#34;&gt;શ્રીહરિવાક્યસુધાસિંધુ&lt;/button&gt;&#xD;&#xA;    &lt;button onclick=&#34;openMainTab(event, &#39;setumala&#39;)&#34;&gt;સેતુમાળા ટીકા&lt;/button&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &lt;div id=&#34;harivakya&#34; class=&#34;main-tab-content active scriptheader&#34;&gt;&#xD;&#xA;    &lt;h2&gt;શ્રીહરિવાક્યસુધાસિંધુ - સદ્ગુરુ શતાનંદ સ્વામીજી દ્વારા રચિત સંસ્કૃત રૂપાંતરણ&lt;/h2&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;sub-tabs&#34;&gt;&#xD;&#xA;      &lt;button class=&#34;active&#34; onclick=&#34;openSubTab(event, &#39;hs-sa&#39;)&#34;&gt;સંસ્કૃત&lt;/button&gt;&#xD;&#xA;      &lt;button onclick=&#34;openSubTab(event, &#39;hs-gu&#39;)&#34;&gt;ગુજરાતી&lt;/button&gt;&#xD;&#xA;      &lt;button onclick=&#34;openSubTab(event, &#39;hs-hi&#39;)&#34;&gt;હિન્દી&lt;/button&gt;&#xD;&#xA;      &lt;button onclick=&#34;openSubTab(event, &#39;hs-en&#39;)&#34;&gt;English&lt;/button&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div id=&#34;hs-sa&#34; class=&#34;sub-tab-content active sanskrit&#34;&gt;&#xD;&#xA;      &#xD;&#xA;      &lt;p&gt;अस्ति श्रीमति गोलोके सर्वलोकविभूषणे । नित्याविर्भूतममलं कार्ष्णं धामोत्तमोत्तमम् ॥७॥ &lt;br&gt;&#xA;अप्रमेयमनाद्यं तं निर्गुणं नित्यमद्वयम् । अखण्डं सच्चिदानन्दरूपं मायातमः परम् ॥८॥ &lt;br&gt;&#xA;कोटिकोट्यर्कचन्द्राग्निप्रभाभासुरमुज्ज्वलम् । भक्तैरेकान्तिकैरेव प्राप्यं कृष्णप्रसादतः ॥९॥ &lt;br&gt;&#xA;यदुच्यते ब्रह्मपुरं ब्रह्म चामृतमक्षरम् । चिदाकाशं च परमव्योमाथ परमं पदम् ||१०|| &lt;br&gt;&#xA;श्रीकृष्णो भगवाँस्तत्र सदा स्वामी विराजते । सप्रेमराधालक्ष्मीभ्यामर्च्यमानपदाम्बुजः ॥११॥ &lt;br&gt;&#xA;अक्षरात्माक्षरपरः सर्वकारणकारणम् । कर्ता नियन्ता सर्वेषां स्वप्रकाशश्च सर्ववित् ॥१२॥ &lt;br&gt;&#xA;नैकाण्डजननस्थानलयलीलश्च निर्गुणः । ब्रह्मभूतानन्तकोटिमुक्तोपास्याङ्घ्रिपङ्कजः ॥१३॥ &lt;br&gt;&#xA;मायापुरुषकालादिस्वशक्तिप्रेरको वशी । नैकब्रह्माण्डराजाधिराजः स्वच्छन्दवर्तनः ॥१४॥ &lt;br&gt;&#xA;कोटिकन्दर्पलावण्यो जलदश्यामसुन्दरः । अनर्घ्यदिव्यविविधवासो भूषणभूषितः ॥ १५ ॥&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

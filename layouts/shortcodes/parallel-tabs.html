@@ -1,0 +1,95 @@
+<div class="vachanamrut-tabs">
+  <!-- Main Tabs -->
+  <div class="main-tab-buttons">
+    <button class="active" onclick="openMainTab(event, 'harivakya')">શ્રીહરિવાક્યસુધાસિંધુ</button>
+    <button onclick="openMainTab(event, 'setumala')">સેતુમાળા ટીકા</button>
+  </div>
+
+  <!-- Hari Vakya Sudha Sindhu Tab -->
+  <div id="harivakya" class="main-tab-content active scriptheader">
+    <h2>શ્રીહરિવાક્યસુધાસિંધુ - સદ્ગુરુ શતાનંદ સ્વામીજી દ્વારા રચિત સંસ્કૃત રૂપાંતરણ</h2>
+    
+    <div class="sub-tabs">
+      <button class="active" onclick="openSubTab(event, 'hs-sa')">સંસ્કૃત</button>
+      <button onclick="openSubTab(event, 'hs-gu')">ગુજરાતી</button>
+      <button onclick="openSubTab(event, 'hs-hi')">હિન્દી</button>
+      <button onclick="openSubTab(event, 'hs-en')">English</button>
+    </div>
+
+    <div id="hs-sa" class="sub-tab-content active sanskrit">
+      {{ $hs_sa := .Page.Resources.GetMatch "hs-sa.md" }}
+      {{ if $hs_sa }}{{ $hs_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
+    </div>
+    
+    <div id="hs-gu" class="sub-tab-content gujarati">
+      {{ $hs_gu := .Page.Resources.GetMatch "hs-gu.md" }}
+      {{ if $hs_gu }}{{ $hs_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
+    </div>
+    
+    <div id="hs-hi" class="sub-tab-content hindi">
+      {{ $hs_hi := .Page.Resources.GetMatch "hs-hi.md" }}
+      {{ if $hs_hi }}{{ $hs_hi.Content | safeHTML }}{{ else }}<p>हिंदी कंटेंट आ रहा है...</p>{{ end }}
+    </div>
+    
+    <div id="hs-en" class="sub-tab-content english">
+      {{ $hs_en := .Page.Resources.GetMatch "hs-en.md" }}
+      {{ if $hs_en }}{{ $hs_en.Content | safeHTML }}{{ else }}<p>English content coming soon...</p>{{ end }}
+    </div>
+  </div>
+
+  <!-- Setumala Tika Tab -->
+<div id="setumala" class="main-tab-content scriptheader">
+  <h2>સેતુમાળા ટીકા - પ્રથમ આચાર્ય શ્રી રઘુવીરજી મહારાજ દ્વારા રચિત સંસ્કૃત ટીકા</h2>
+  
+  <div class="sub-tabs">
+    <button class="active" onclick="openSubTab(event, 'st-sa')">સંસ્કૃત</button>
+    <button onclick="openSubTab(event, 'st-gu')">ગુજરાતી</button>
+    <button onclick="openSubTab(event, 'st-hi')">હિન્દી</button>
+    <button onclick="openSubTab(event, 'st-en')">English</button>
+  </div>
+
+  <div id="st-sa" class="sub-tab-content active sanskrit">
+    {{ $st_sa := .Page.Resources.GetMatch "st-sa.md" }}
+    {{ if $st_sa }}{{ $st_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત ટીકા આવી રહી છે...</p>{{ end }}
+  </div>
+  
+  <div id="st-gu" class="sub-tab-content gujarati">
+    {{ $st_gu := .Page.Resources.GetMatch "st-gu.md" }}
+    {{ if $st_gu }}{{ $st_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી ટીકા આવી રહી છે...</p>{{ end }}
+  </div>
+  
+  <div id="st-hi" class="sub-tab-content hindi">
+    {{ $st_hi := .Page.Resources.GetMatch "st-hi.md" }}
+    {{ if $st_hi }}{{ $st_hi.Content | safeHTML }}{{ else }}<p>હિન્દી ટીકા આવી રહી છે...</p>{{ end }}
+  </div>
+  
+  <div id="st-en" class="sub-tab-content english">
+    {{ $st_en := .Page.Resources.GetMatch "st-en.md" }}
+    {{ if $st_en }}{{ $st_en.Content | safeHTML }}{{ else }}<p>English commentary coming soon...</p>{{ end }}
+  </div>
+</div>
+</div>
+
+<script>
+function openMainTab(evt, tabName) {
+  document.querySelectorAll('.main-tab-content').forEach(tab => tab.classList.remove('active'));
+  document.querySelectorAll('.main-tab-buttons button').forEach(btn => btn.classList.remove('active'));
+  document.getElementById(tabName).classList.add('active');
+  evt.currentTarget.classList.add('active');
+}
+
+function openSubTab(evt, tabName) {
+  const parent = evt.currentTarget.closest('.main-tab-content');
+  parent.querySelectorAll('.sub-tab-content').forEach(tab => tab.classList.remove('active'));
+  parent.querySelectorAll('.sub-tabs button').forEach(btn => btn.classList.remove('active'));
+  document.getElementById(tabName).classList.add('active');
+  evt.currentTarget.classList.add('active');
+}
+</script>
+
+<style>
+.main-tab-content { display: none; }
+.main-tab-content.active { display: block; }
+.sub-tab-content { display: none; margin-top: 20px; }
+.sub-tab-content.active { display: block; }
+</style>
