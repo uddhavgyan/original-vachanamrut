@@ -1,13 +1,17 @@
-# Generated files by hugo
+# Hugo build output
 /public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
 
-# Executables may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
+# Dependencies
+/resources/
 
-# Temporary lock file while building
-/.hugo_build.lock
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Hugo cache
+.hugo_build.lock
+
+# Node modules (if using JS)
+/node_modules/
