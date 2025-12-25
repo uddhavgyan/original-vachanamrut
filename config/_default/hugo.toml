@@ -10,4 +10,10 @@ defaultContentLanguage = "gu"
   BookSearch = true         # Enable search bar
   BookPortableLinks = true  # Offline caching (optional)
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
    
