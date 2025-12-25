@@ -1,23 +1,32 @@
 baseURL = "http://localhost:1313/"
-title = "Vachanamrut"
+title = "વચનામૃત"  # Default title (Gujarati)
 theme = "hugo-book"
-
-defaultContentLanguage = "en"
+defaultContentLanguage = "gu"
 
 [params]
-  # BookSection = "docs"      # Use content/docs for sidebar menu
-  BookTheme = "light"       # Light mode (clean white background)
-  BookSearch = true         # Enable search bar
-  BookPortableLinks = true  # Offline caching (optional)
+  BookSection = "docs"
+  BookSearch = true
+  BookTheme = "light"
 
-  [[menu.main]]
-  name = "ગઢડા પ્રથમ (૭૮)"
-  url = "/docs/vachanamrut/gadhada-pratham/"
-  weight = 1
+[languages]
+  [languages.gu]
+    languageName = "ગુજરાતી"
+    weight = 1
+    title = "વચનામૃત"
+    [languages.gu.params]
+      BookRepo = "https://github.com/uddhavgyan/original-vachanamrut"
+      BookSearchPlaceholder = "શોધો..."
 
-[[menu.main]]
-  name = "સારંગપુર (૧૮)"
-  url = "/docs/vachanamrut/sarangpur/"
-  weight = 2
+  [languages.hi]
+    languageName = "हिंदी"
+    weight = 2
+    title = "वचनामृत"
+    [languages.hi.params]
+      BookSearchPlaceholder = "खोजें..."
 
-  
+  [languages.en]
+    languageName = "English"
+    weight = 3
+    title = "Vachanamrut"
+    [languages.en.params]
+      BookSearchPlaceholder = "Search..."
