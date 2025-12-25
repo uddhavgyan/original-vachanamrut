@@ -2,8 +2,8 @@ name: Deploy Hugo to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # Change if your default branch is different (e.g., master)
-  workflow_dispatch:    # Allows manual trigger
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -21,16 +21,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # If your theme is a submodule
+          submodules: recursive
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'  # Or specific version, e.g., '0.153.2'
-          extended: true          # Use extended for SCSS/Sass support
+          hugo-version: 'latest'
+          extended: true
 
       - name: Build Site
         run: hugo --minify --gc
+        env:
+          HUGO_ENV: production  # This tells Hugo to load config/production/*
+          BASEURL: https://uddhavgyan.github.io/original-vachanamrut/  # Optional safety net
+
+      # Optional: Explicitly pass baseURL as flag (extra safety if config is missing)
+      # You can uncomment this alternative line if you prefer:
+      # run: hugo --minify --gc --baseURL "https://uddhavgyan.github.io/original-vachanamrut/"
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
