@@ -1,76 +1,106 @@
 <div class="vachanamrut-tabs">
   <!-- Main Tabs -->
   <div class="main-tab-buttons">
-    <button class="active" onclick="openMainTab(event, 'harivakya')">શ્રીહરિવાક્યસુધાસિંધુ</button>
-    <button onclick="openMainTab(event, 'setumala')">સેતુમાળા ટીકા</button>
+    <button class="active" data-section="harivakya" id="main-tab-harivakya" onclick="openMainTab(event, 'harivakya')">
+      શ્રીહરિવાક્યસુધાસિંધુ
+    </button>
+    <button data-section="setumala" id="main-tab-setumala" onclick="openMainTab(event, 'setumala')">
+      સેતુમાળા ટીકા
+    </button>
   </div>
 
-  <!-- Hari Vakya Sudha Sindhu Tab -->
-  <div id="harivakya" class="main-tab-content active scriptheader">
-    <h2>શ્રીહરિવાક્યસુધાસિંધુ - સદ્ગુરુ શતાનંદ સ્વામીજી દ્વારા રચિત સંસ્કૃત રૂપાંતરણ</h2>
+  <!-- Harivakya Section -->
+  <div id="harivakya" class="main-tab-content active">
+    <h2 id="harivakya-header">
+      શ્રીહરિવાક્યસુધાસિંધુ - સદ્ગુરુ શતાનંદ સ્વામીજી દ્વારા રચિત સંસ્કૃત રૂપાંતરણ
+    </h2>
     
     <div class="sub-tabs">
-      <button class="active" onclick="openSubTab(event, 'hs-sa')">સંસ્કૃત</button>
-      <button onclick="openSubTab(event, 'hs-gu')">ગુજરાતી</button>
-      <button onclick="openSubTab(event, 'hs-hi')">હિન્દી</button>
-      <button onclick="openSubTab(event, 'hs-en')">English</button>
+      <button class="active" data-lang="sa" onclick="openSubTab(event, 'hs-sa', 'harivakya')">સંસ્કૃત</button>
+      <button data-lang="gu" onclick="openSubTab(event, 'hs-gu', 'harivakya')">ગુજરાતી</button>
+      <button data-lang="hi" onclick="openSubTab(event, 'hs-hi', 'harivakya')">હિન્દી</button>
+      <button data-lang="en" onclick="openSubTab(event, 'hs-en', 'harivakya')">English</button>
     </div>
 
-    <div id="hs-sa" class="sub-tab-content active sanskrit">
+    <div id="hs-sa" class="sub-tab-content active">
       {{ $hs_sa := .Page.Resources.GetMatch "hs-sa.md" }}
       {{ if $hs_sa }}{{ $hs_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
     </div>
-    
-    <div id="hs-gu" class="sub-tab-content gujarati">
+    <div id="hs-gu" class="sub-tab-content">
       {{ $hs_gu := .Page.Resources.GetMatch "hs-gu.md" }}
       {{ if $hs_gu }}{{ $hs_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
     </div>
-    
-    <div id="hs-hi" class="sub-tab-content hindi">
+    <div id="hs-hi" class="sub-tab-content">
       {{ $hs_hi := .Page.Resources.GetMatch "hs-hi.md" }}
       {{ if $hs_hi }}{{ $hs_hi.Content | safeHTML }}{{ else }}<p>हिंदी कंटेंट आ रहा है...</p>{{ end }}
     </div>
-    
-    <div id="hs-en" class="sub-tab-content english">
+    <div id="hs-en" class="sub-tab-content">
       {{ $hs_en := .Page.Resources.GetMatch "hs-en.md" }}
       {{ if $hs_en }}{{ $hs_en.Content | safeHTML }}{{ else }}<p>English content coming soon...</p>{{ end }}
     </div>
   </div>
 
-  <!-- Setumala Tika Tab -->
-<div id="setumala" class="main-tab-content scriptheader">
-  <h2>સેતુમાળા ટીકા - પ્રથમ આચાર્ય શ્રી રઘુવીરજી મહારાજ દ્વારા રચિત સંસ્કૃત ટીકા</h2>
-  
-  <div class="sub-tabs">
-    <button class="active" onclick="openSubTab(event, 'st-sa')">સંસ્કૃત</button>
-    <button onclick="openSubTab(event, 'st-gu')">ગુજરાતી</button>
-    <button onclick="openSubTab(event, 'st-hi')">હિન્દી</button>
-    <button onclick="openSubTab(event, 'st-en')">English</button>
-  </div>
+  <!-- Setumala Section -->
+  <div id="setumala" class="main-tab-content">
+    <h2 id="setumala-header">
+      સેતુમાળા ટીકા - પ્રથમ આચાર્ય શ્રી રઘુવીરજી મહારાજ દ્વારા રચિત સંસ્કૃત ટીકા
+    </h2>
+    
+    <div class="sub-tabs">
+      <button class="active" data-lang="sa" onclick="openSubTab(event, 'st-sa', 'setumala')">સંસ્કૃત</button>
+      <button data-lang="gu" onclick="openSubTab(event, 'st-gu', 'setumala')">ગુજરાતી</button>
+      <button data-lang="hi" onclick="openSubTab(event, 'st-hi', 'setumala')">હિન્દી</button>
+      <button data-lang="en" onclick="openSubTab(event, 'st-en', 'setumala')">English</button>
+    </div>
 
-  <div id="st-sa" class="sub-tab-content active sanskrit">
-    {{ $st_sa := .Page.Resources.GetMatch "st-sa.md" }}
-    {{ if $st_sa }}{{ $st_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત ટીકા આવી રહી છે...</p>{{ end }}
+    <div id="st-sa" class="sub-tab-content active">
+      {{ $st_sa := .Page.Resources.GetMatch "st-sa.md" }}
+      {{ if $st_sa }}{{ $st_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત ટીકા આવી રહી છે...</p>{{ end }}
+    </div>
+    <div id="st-gu" class="sub-tab-content">
+      {{ $st_gu := .Page.Resources.GetMatch "st-gu.md" }}
+      {{ if $st_gu }}{{ $st_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી ટીકા આવી રહી છે...</p>{{ end }}
+    </div>
+    <div id="st-hi" class="sub-tab-content">
+      {{ $st_hi := .Page.Resources.GetMatch "st-hi.md" }}
+      {{ if $st_hi }}{{ $st_hi.Content | safeHTML }}{{ else }}<p>હિન્દી ટીકા આવી રહી છે...</p>{{ end }}
+    </div>
+    <div id="st-en" class="sub-tab-content">
+      {{ $st_en := .Page.Resources.GetMatch "st-en.md" }}
+      {{ if $st_en }}{{ $st_en.Content | safeHTML }}{{ else }}<p>English commentary coming soon...</p>{{ end }}
+    </div>
   </div>
-  
-  <div id="st-gu" class="sub-tab-content gujarati">
-    {{ $st_gu := .Page.Resources.GetMatch "st-gu.md" }}
-    {{ if $st_gu }}{{ $st_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી ટીકા આવી રહી છે...</p>{{ end }}
-  </div>
-  
-  <div id="st-hi" class="sub-tab-content hindi">
-    {{ $st_hi := .Page.Resources.GetMatch "st-hi.md" }}
-    {{ if $st_hi }}{{ $st_hi.Content | safeHTML }}{{ else }}<p>હિન્દી ટીકા આવી રહી છે...</p>{{ end }}
-  </div>
-  
-  <div id="st-en" class="sub-tab-content english">
-    {{ $st_en := .Page.Resources.GetMatch "st-en.md" }}
-    {{ if $st_en }}{{ $st_en.Content | safeHTML }}{{ else }}<p>English commentary coming soon...</p>{{ end }}
-  </div>
-</div>
 </div>
 
 <script>
+// Translation dictionary
+const translations = {
+  mainTabs: {
+    harivakya: {
+      gu: "શ્રીહરિવાક્યસુધાસિંધુ",
+      hi: "श्रीहरिवाक्यसुधासिन्धु",
+      en: "Shri Harivakyasudha Sindhu"
+    },
+    setumala: {
+      gu: "સેતુમાળા ટીકા",
+      hi: "सेतुमाला टीका",
+      en: "Setumala Tika"
+    }
+  },
+  headers: {
+    harivakya: {
+      gu: "શ્રીહરિવાક્યસુધાસિંધુ - સદ્ગુરુ શતાનંદ સ્વામીજી દ્વારા રચિત સંસ્કૃત રૂપાંતરણ",
+      hi: "श्रीहरिवाक्यसुधासिन्धु - सद्गुरु शतानन्द स्वामीजी द्वारा रचित संस्कृत रूपान्तरण",
+      en: "Shri Harivakyasudha Sindhu - Sanskrit rendition composed by Sad. Shatanand Swami"
+    },
+    setumala: {
+      gu: "સેતુમાળા ટીકા - પ્રથમ આચાર્ય શ્રી રઘુવીરજી મહારાજ દ્વારા રચિત સંસ્કૃત ટીકા",
+      hi: "सेतुमाला टीका - प्रथम आचार्य श्री रघुवीरजी महाराज द्वारा रचित संस्कृत टीका",
+      en: "Setumala Tika - Sanskrit commentary by 1st Acharya Shri Raghuvirji Maharaj"
+    }
+  }
+};
+
 function openMainTab(evt, tabName) {
   document.querySelectorAll('.main-tab-content').forEach(tab => tab.classList.remove('active'));
   document.querySelectorAll('.main-tab-buttons button').forEach(btn => btn.classList.remove('active'));
@@ -78,18 +108,24 @@ function openMainTab(evt, tabName) {
   evt.currentTarget.classList.add('active');
 }
 
-function openSubTab(evt, tabName) {
+function openSubTab(evt, tabName, section) {
   const parent = evt.currentTarget.closest('.main-tab-content');
-  parent.querySelectorAll('.sub-tab-content').forEach(tab => tab.classList.remove('active'));
+  parent.querySelectorAll('.sub-tab-content').forEach(content => content.classList.remove('active'));
   parent.querySelectorAll('.sub-tabs button').forEach(btn => btn.classList.remove('active'));
   document.getElementById(tabName).classList.add('active');
   evt.currentTarget.classList.add('active');
-}
-</script>
 
-<style>
-.main-tab-content { display: none; }
-.main-tab-content.active { display: block; }
-.sub-tab-content { display: none; margin-top: 20px; }
-.sub-tab-content.active { display: block; }
-</style>
+  const lang = evt.currentTarget.getAttribute('data-lang');
+  if (lang !== 'sa') {
+    document.getElementById(`main-tab-${section}`).textContent = translations.mainTabs[section][lang] || translations.mainTabs[section]['gu'];
+    document.getElementById(`${section}-header`).textContent = translations.headers[section][lang] || translations.headers[section]['gu'];
+  } else {
+    document.getElementById(`main-tab-${section}`).textContent = translations.mainTabs[section]['gu'];
+    document.getElementById(`${section}-header`).textContent = translations.headers[section]['gu'];
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  openMainTab({ currentTarget: document.querySelector('.main-tab-buttons button.active') }, 'harivakya');
+});
+</script>

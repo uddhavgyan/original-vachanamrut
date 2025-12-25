@@ -1,33 +1,20 @@
-/* Light Vedic Theme - Calm & Devotional */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gujarati:wght@300;400;500;600;700;900&display=swap');
+/* Minimalist Light Vedic Theme - Calm, Professional & Devotional */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gujarati:wght@300;400;500;600;700&display=swap');
 
 body {
   font-family: 'Noto Sans Gujarati', sans-serif !important;
+  background-color: #FAF9F6 !important;   /* Very light warm cream */
+  color: #333333 !important;              /* Soft dark gray text */
+  line-height: 1.9 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Noto Sans Gujarati', sans-serif !important;
-}
-
-.book-page {
-  line-height: 1.8;
-}
-
-.book-article
-{
-  background: floralwhite;
-    padding: 10px;
-}
-
-body {
-  background-color: #FAF9F6 !important;   /* Very light warm cream */
-  color: #333333 !important;              /* Soft dark gray for text */
-  /* font-family: 'Noto Serif', serif !important; */
-  line-height: 1.9 !important;
+  color: #8B4513 !important;              /* Warm brown for headings */
 }
 
 a {
-  color: #8B4513 !important;              /* Warm saddle brown for links */
+  color: #8B4513 !important;
   text-decoration: none !important;
 }
 
@@ -40,102 +27,100 @@ a:hover {
   color: #8B4513 !important;
   font-size: 1.7em !important;
   font-weight: 600 !important;
-  font-family: 'Noto Serif Devanagari', serif !important;
 }
 
-/* Tab buttons - light and elegant */
-.main-tab-buttons button, .sub-tabs button {
+/* Main & Sub Tabs - Clean, Flat, Minimal */
+.main-tab-buttons,
+.sub-tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.main-tab-buttons button,
+.sub-tabs button {
+  flex: 1;
+  padding: 12px 20px;
   background: #FFFFFF !important;
   color: #8B4513 !important;
-  border: 1.5px solid #DEB887 !important;   /* Light burlywood/saffron tone */
+  border: 1.5px solid #DEB887 !important;
   border-radius: 30px !important;
-  padding: 8px 22px !important;
-  font-size: 1em !important;
+  font-size: 1.1rem !important;
   font-weight: 500 !important;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.06) !important;
-  transition: all 0.3s ease !important;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: none !important;
 }
 
-.main-tab-buttons button:hover, .sub-tabs button:hover {
-  background: #FFF8F0 !important;           /* Very light peach */
+.main-tab-buttons button:hover,
+.sub-tabs button:hover {
+  background: #FFF8F0 !important;
   border-color: #D2691E !important;
-  color: #8B4513 !important;
 }
 
-.main-tab-buttons button.active, .sub-tabs button.active {
+.main-tab-buttons button.active,
+.sub-tabs button.active {
   background: #8B4513 !important;
   color: white !important;
   border-color: #8B4513 !important;
   font-weight: 600 !important;
 }
 
-/* Content area - clean and light */
-.tab-content {
+/* Content Area - White with Light Border */
+.main-tab-content {
+  display: none;
   background: #FFFFFF !important;
-  padding: 35px !important;
-  border-radius: 10px !important;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.05) !important;
-  margin: 20px 0;
-  border-left: 4px solid #DEB887 !important; /* Soft saffron accent */
-  font-size: 1.32em !important;
-  line-height: 2.0 !important;
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid #DEB887 !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
-/* Language fonts */
-* Improved Language-Specific Styling for Multi-Language Tabs */
-
-/* Base for all devotional text */
-.sanskrit,
-.gujarati,
-.hindi,
-.english {
-  line-height: 2.1 !important;           /* Generous spacing for complex scripts */
-  margin-bottom: 1.5em !important;
+.main-tab-content.active {
+  display: block;
 }
 
-/* Unified Light & Simple Styling for All Languages */
-.sanskrit,
-.gujarati,
-.hindi,
-.english {
-  font-size: 1em !important;          /* Same comfortable size for all */
-  line-height: 2.1 !important;           /* Generous spacing for readability */
-  color: #2c3e50 !important;             /* Soft dark gray - clean and neutral */
-  font-weight: 400 !important;
-  text-align: left !important;           /* Standard left alignment */
-  padding: 10px 10px !important;         /* Consistent comfortable padding */
-  margin: 10px 0 !important;
-  background: #FFFFFF !important;        /* Pure white background */
-  border-radius: 12px !important;        /* Soft rounded corners */
-  border-left: 5px solid #DEB887 !important; /* Subtle golden accent on left */
-  box-shadow: 0 4px 15px rgba(0,0,0,0.06) !important; /* Very light shadow */
-  
-  margin-left: auto !important;
-  margin-right: auto !important;
+.main-tab-buttons button.active {
+  background: #8B4513 !important;
+  color: white !important;
+  border-color: #8B4513 !important;
 }
 
-/* Slight distinction for Sanskrit - keep it special but minimal */
+/* Translation Content - Clean White Cards */
+.sub-tab-content {
+  display: none;
+  background: #FFFFFF;
+  padding: 2rem;
+  border-radius: 12px;
+  border-left: 4px solid #DEB887;
+  margin: 1.5rem 0;
+  font-size: 1rem;
+  line-height: 2.0;
+  color: #333333;
+}
+
+.sub-tab-content.active {
+  display: block;
+}
+
+/* Special for Sanskrit - Slightly Distinguished but Minimal */
 .sanskrit {
-  font-size: 1em !important;          /* Slightly larger - honors the source */
- 
-  color: #8B4513 !important;             /* Warm devotional brown */
-  font-weight: 500 !important;
-  border-left: 5px solid #D2691E !important; /* Richer golden accent */
+  border-left-color: #D2691E !important;
+  color: #8B4513 !important;
+  font-weight: 500;
 }
 
-/* English - light italic to distinguish without overpowering */
-.english {
-  /* font-style: italic !important; */
-  color: #444444 !important;
-  font-weight: 400 !important;
-}
-/* Header - light saffron touch */
-.book-header {
-  border-top: 5px solid #DEB887 !important;   /* Light golden saffron */
-  background: linear-gradient(to bottom, #FFF8F0, transparent) !important;
+/* Headers - Clean and Elegant */
+h2 {
+  font-size: 1.3rem !important;
+  color: #8B4513 !important;
+  margin: 0 0 1.5rem 0;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #DEB887;
+  text-align: center;
 }
 
-/* Search bar */
+/* Search Bar */
 .book-search input {
   border-radius: 30px !important;
   padding: 10px 20px !important;
@@ -143,45 +128,31 @@ a:hover {
   background: white !important;
 }
 
-/* Sidebar - light and subtle */
+/* Sidebar Menu - Light & Clean */
 .book-menu a,
-.book-menu nav a,
 .book-menu span {
-  font-size: 1rem !important;
-  font-weight: 500 !important;
   color: #8B4513 !important;
-  padding: 8px 16px !important;
+  font-weight: 500 !important;
+  padding: 8px 12px !important;
   border-radius: 6px !important;
+  transition: background 0.3s;
 }
 
 .book-menu a:hover {
   background: #FFF8F0 !important;
-  color: #A0522D !important;
 }
 
 .book-menu a.active {
+  background: #FFF0E6 !important;
   font-weight: 600 !important;
-  background: #FFF0E6 !important;   /* Very light warm tint */
-  color: #8B4513 !important;
-}
-
-/* Main title - gentle prominence */
-.book-content h1,
-.book-content h2:first-of-type {
-  font-size: 1.8rem !important;
-  font-weight: 700 !important;
-  color: #8B4513 !important;
-  text-align: center !important;
-  margin: 1.8rem 0 1.2rem 0 !important;
-  line-height: 1.4 !important;
-  font-family: 'Noto Serif Devanagari', serif !important;
 }
 
 /* Breadcrumbs */
 .book-breadcrumb {
   border-bottom: 1px solid #DEB887 !important;
   color: #8B4513 !important;
-  font-size: 1.05em !important;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .book-breadcrumb a {
@@ -189,19 +160,22 @@ a:hover {
 }
 
 .book-breadcrumb .active {
-  color: #444444 !important;
+  color: #333333 !important;
   font-weight: 600 !important;
 }
 
-.scriptheader h2
-{
-  font-size: 1.5em !important;
-    color: #c0392b !important;
-    margin: 20px 10px !important;
-    line-height: 1.1 !important;    
-    text-shadow: 2px 2px 10px rgba(192, 57, 43, 0.2) !important;
+/* Remove unnecessary heavy elements */
+.book-header {
+  background: transparent !important;
+  border-top: none !important;
 }
-.home-content {
-  max-width: 1400px;
-  margin: 0 auto;
+
+/* Script Header (your h2 inside tabs) */
+.scriptheader h2 {
+  font-size: 1.5rem !important;
+  color: #8B4513 !important;
+  margin: 0 0 1.5rem 0 !important;
+  line-height: 1.4 !important;
+  text-shadow: none !important;
+  text-align: center !important;
 }
