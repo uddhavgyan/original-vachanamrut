@@ -1,213 +1,239 @@
-/* Minimalist Light Vedic Theme - Calm, Professional & Devotional */
+/* Minimalist Light Vedic Theme - Serene, Clean & Devotional */
+/* Updated: Significantly reduced vertical spacing in header, tabs, and titles for long content pages */
+/* All existing classes preserved – only spacing optimized */
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Gujarati:wght@300;400;500;600;700&display=swap');
 
 body {
   font-family: 'Noto Sans Gujarati', sans-serif !important;
-  background-color: #FAF9F6 !important;   /* Very light warm cream */
-  color: #333333 !important;              /* Soft dark gray text */
+  background-color: #FAF9F6 !important;
+  color: #3E2723 !important;
   line-height: 1.9 !important;
+  font-size: 1.05rem !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Noto Sans Gujarati', sans-serif !important;
-  color: #8B4513 !important;              /* Warm brown for headings */
+  color: #8B4513 !important;
+  font-weight: 600 !important;
+  margin: 1.8em 0 1em 0 !important;
 }
 
 a {
-  color: #8B4513 !important;
+  color: #A0522D !important;
   text-decoration: none !important;
+  transition: color 0.2s ease;
 }
 
 a:hover {
+  color: #BF6F3A !important;
   text-decoration: underline !important;
-  color: #A0522D !important;
 }
 
-.book-brand {
+/* Brand Title */
+.brand-title {
   color: #8B4513 !important;
-  font-size: 1.7em !important;
-  font-weight: 600 !important;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px;
+  text-decoration: none !important;
+}
+.brand-icon {
+  font-size: 1.8rem;
+  padding: 10px 0px 10px 10px;
 }
 
-/* Main & Sub Tabs - Clean, Flat, Minimal */
+.brand-title:hover {
+  opacity: 0.92;
+  text-decoration: none !important;
+}
+
+/* === Preserved Tab Classes - Main & Sub Tabs – Reduced vertical space === */
 .main-tab-buttons,
 .sub-tabs {
   display: flex;
-  gap: 10px;
-  margin-bottom: 1.5rem;
+  gap: 12px;
+  margin: 1rem 0 1.3rem 0;               /* Reduced from 2rem/2.5rem */
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .main-tab-buttons button,
 .sub-tabs button {
-  flex: 1;
-  padding: 12px 20px;
+  padding: 11px 28px;
   background: #FFFFFF !important;
   color: #8B4513 !important;
-  border: 1.5px solid #DEB887 !important;
-  border-radius: 30px !important;
+  border: 1.8px solid #DEB887 !important;
+  border-radius: 50px !important;
   font-size: 1.1rem !important;
   font-weight: 500 !important;
   cursor: pointer;
   transition: all 0.3s ease;
   box-shadow: none !important;
+  min-width: 120px;
 }
 
 .main-tab-buttons button:hover,
 .sub-tabs button:hover {
-  background: #FFF8F0 !important;
+  background: #FFF8F2 !important;
   border-color: #D2691E !important;
+  transform: translateY(-1px);
 }
 
 .main-tab-buttons button.active,
 .sub-tabs button.active {
-  background: #8B4513 !important;
+  background: #A0522D !important;
   color: white !important;
-  border-color: #8B4513 !important;
+  border-color: #A0522D !important;
   font-weight: 600 !important;
 }
 
-/* Content Area - White with Light Border */
+/* Main Content Containers – Slightly reduced top margin/padding */
+.book-page {
+  background: #FFFFFF !important;
+  border-radius: 14px !important;
+  margin: 8px 8px 12px 8px !important;   /* Reduced top margin */
+  padding: 1.6rem 2rem !important;       /* Reduced top/bottom padding */
+  box-shadow: 0 4px 14px rgba(139, 69, 19, 0.09) !important;
+  border: 1px solid #F0E6DC !important;
+}
+
+.book-menu-content {
+  background: #FFFFFF !important;
+  border-radius: 14px !important;
+  margin: 12px 0 !important;
+  padding: 0.5rem 10px !important;
+  box-shadow: 0 4px 12px rgba(139, 69, 19, 0.08) !important;
+}
+
+/* === Preserved Classes - Tab Content Areas – Reduced margins === */
 .main-tab-content {
   display: none;
-  /* background: #FFFFFF !important;
-  padding: 2rem;
-  border-radius: 12px;
-  border: 1px solid #DEB887 !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05); */
+  min-height: 60vh;
 }
-.book-page
-{
-   border-radius: 12px;
-  margin: 10px 10px;
-  box-shadow: 1px 2px 8px rgba(0,0,0,0.05);
-   background: #FFFFFF !important;
-}
-.book-menu-content
-{
-   border-radius: 12px;
-  margin: 10px 0px;
-  box-shadow: 1px 2px 8px rgba(0,0,0,0.05);
-   background: #FFFFFF !important;
-}
+
 .main-tab-content.active {
   display: block;
 }
 
-.main-tab-buttons button.active {
-  background: #8B4513 !important;
-  color: white !important;
-  border-color: #8B4513 !important;
-}
-
-/* Translation Content - Clean White Cards */
 .sub-tab-content {
   display: none;
   background: #FFFFFF;
-  padding: 2rem;
+  padding: 1.8rem 2.2rem;                 /* Slightly reduced padding */
   border-radius: 12px;
-  /* border: 1px solid #DEB887; */
-  margin: 1.5rem 0;
-  font-size: 1rem;
-  line-height: 2.0;
-  color: #333333;
-  box-shadow: 0 2px 4px #D2691E;
-  
+  margin: 1.2rem 0 2rem 0;                /* Reduced top/bottom margin */
+  font-size: 1.08rem;
+  line-height: 2.1;
+  color: #3E2723;
+  border: 1px solid #F0E6DC;
+  box-shadow: 0 3px 10px rgba(139, 69, 19, 0.06);
 }
 
 .sub-tab-content.active {
   display: block;
 }
-mark {
-  background-color: #FFF2CC;
-  color: red;
-  padding: 0.1em 0.3em;
-  border-radius: 4px;
-  
+
+/* Section Titles – Significantly reduced bottom space */
+.scriptheader h2,
+h2 {
+  font-size: 1.55rem !important;
+  color: #8B4513 !important;
+  text-align: center !important;
+  margin: 0 0 1.2rem 0 !important;        /* Reduced from 2.2rem */
+  padding-bottom: 0.6rem !important;      /* Reduced from 0.9rem */
+  border-bottom: 1.6px solid #DEB887;
+  font-weight: 600 !important;
+  letter-spacing: 0.3px;
 }
 
-/* Special for Sanskrit - Slightly Distinguished but Minimal */
+/* Highlighted Terms */
+mark {
+  background-color: #FFF4E6;
+  color: #D2691E;
+  padding: 0.15em 0.4em;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+/* Sanskrit Text Styling */
 .sanskrit {
-  border-left-color: #D2691E !important;
   color: #8B4513 !important;
   font-weight: 600 !important;
-}
-
-/* Headers - Clean and Elegant */
-h2 {
-  font-size: 1.3rem !important;
-  color: #8B4513 !important;
-  margin: 0 0 1.5rem 0;
-  padding-bottom: 0.8rem;
-  border-bottom: 1px solid #DEB887;
-  text-align: center;
+  letter-spacing: 0.5px;
 }
 
 /* Search Bar */
 .book-search input {
   border-radius: 30px !important;
-  padding: 10px 20px !important;
-  border: 1px solid #DEB887 !important;
+  padding: 12px 20px !important;
+  border: 1.8px solid #DEB887 !important;
   background: white !important;
+  font-size: 1rem;
 }
 
-/* Sidebar Menu - Light & Clean */
-.book-menu a,
-.book-menu span {
+/* Sidebar Menu */
+.book-menu a:not(.brand-title),
+.book-menu span:not(.brand) {
   color: #8B4513 !important;
   font-weight: 500 !important;
-  padding: 5px 5px !important;
-  border-radius: 6px !important;
-  transition: background 0.3s;
+  padding: 8px 12px !important;
+  border-radius: 8px !important;
+  transition: all 0.2s ease;
 }
 
-.book-menu a:hover {
-  background: #FFF8F0 !important;
+.book-menu a:hover:not(.brand-title) {
+  background: #FFF8F2 !important;
 }
 
 .book-menu a.active {
   background: #FFF0E6 !important;
+  color: #A0522D !important;
   font-weight: 600 !important;
 }
 
-/* Breadcrumbs */
+/* Breadcrumbs & Header – Reduced header padding */
 .book-breadcrumb {
-  border-bottom: 1px solid #DEB887 !important;
-  color: #8B4513 !important;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-}
-
-.book-breadcrumb a {
+  border-bottom: 1.5px solid #DEB887 !important;
+  padding-bottom: 0.6rem !important;      /* Slightly reduced */
+  margin-bottom: 1rem !important;         /* Reduced */
   color: #8B4513 !important;
 }
 
-.book-breadcrumb .active {
-  color: #333333 !important;
-  font-weight: 600 !important;
-}
-
-/* Remove unnecessary heavy elements */
 .book-header {
   background: transparent !important;
-  border-top: none !important;
+  border-bottom: 1px solid #F0E6DC !important;
+  padding: 0.5rem 0 !important;           /* Reduced from 0.8rem */
 }
 
-/* Script Header (your h2 inside tabs) */
-.scriptheader h2 {
-  font-size: 1.5rem !important;
-  color: #8B4513 !important;
-  margin: 0 0 1.5rem 0 !important;
-  line-height: 1.4 !important;
-  text-shadow: none !important;
-  text-align: center !important;
+/* Mobile Adjustments – Also tightened */
+@media (max-width: 768px) {
+  .main-tab-buttons,
+  .sub-tabs {
+    gap: 8px;
+    margin: 0.8rem 0 1rem 0 !important;   /* Further reduced on mobile */
+  }
+  
+  .main-tab-buttons button,
+  .sub-tabs button {
+    padding: 10px 18px;
+    font-size: 1rem;
+    min-width: auto;
+  }
+  
+  .book-page {
+    margin: 6px 4px !important;
+    padding: 1.2rem !important;            /* Tighter on mobile */
+  }
+  
+  .sub-tab-content {
+    padding: 1.4rem !important;
+    margin: 1rem 0 !important;
+  }
+  
+  .scriptheader h2,
+  h2 {
+    margin-bottom: 1rem !important;
+    padding-bottom: 0.5rem !important;
+    font-size: 1.4rem !important;
+  }
 }
-
-.brand-icon {
-  font-size: 1.6rem;
-  line-height: 1;
-}
-
-.brand-title:hover {
-  opacity: 0.9;
-}
-
