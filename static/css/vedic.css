@@ -160,6 +160,64 @@ a:hover {
   display: block;
 }
 
+/* Better targeting for language-specific content – no reliance on .sanskrit class */
+
+/* Base for all sub-tab content */
+.sub-tab-content {
+  font-size: 1.05rem;
+  line-height: 2.0;
+  padding: 1.8rem 2.2rem;
+}
+
+/* Sanskrit – Slightly smaller, lighter weight (Devanagari looks bigger) */
+.sub-tab-content.lang-sa {
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.1px !important;
+}
+
+/* Gujarati – Default, comfortable */
+.sub-tab-content.lang-gu {
+  font-size: 1.05rem !important;
+  font-weight: 400 !important;
+  text-align: justify !important;
+}
+
+/* Hindi – Similar to Sanskrit */
+.sub-tab-content.lang-hi {
+  font-size: 1.0rem !important;
+  font-weight: 500 !important;
+  text-align: justify !important;
+}
+
+/* English – Slightly larger for readability */
+.sub-tab-content.lang-en {
+  font-size: 1.08rem !important;
+  font-weight: 400 !important;
+  line-height: 2.1;
+  font-family: 'Georgia', 'Noto Serif', serif;  /* Optional: more traditional feel */
+  text-align: justify !important;
+}
+
+/* Make highlighted terms (Shriji names, etc.) stand out more */
+.sub-tab-content mark {
+  /* font-weight: 600 !important;        */
+  background-color: #FFF4E6 !important;
+  color: #D2691E !important;
+  padding: 0.1em 0.3em !important;
+  border-radius: 4px !important;
+}
+
+.sub-tab-content mark1 {
+  font-weight: 600 !important;       
+  /* background-color: #FFF4E6 !important; */
+  color: #D2691E !important;
+  padding: 0.1em 0.3em !important;
+  /* border-radius: 4px !important; */
+}
+
+ 
+
 /* Section Titles */
 .scriptheader h2,
 h2 {
@@ -173,22 +231,9 @@ h2 {
   letter-spacing: 0.3px;
 }
 
-/* Highlighted Terms */
-mark {
-  background-color: #FFF4E6;
-  color: #D2691E;
-  padding: 0.15em 0.4em;
-  border-radius: 6px;
-  font-weight: 500;
-}
+ 
 
-/* Sanskrit Text Styling */
-.sanskrit {
-  color: #8B4513 !important;
-  font-weight: 600 !important;
-  letter-spacing: 0.5px;
-}
-
+ 
 /* Search Bar */
 .book-search input {
   border-radius: 30px !important;

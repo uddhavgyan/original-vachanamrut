@@ -16,25 +16,25 @@
     </h2>
     
     <div class="sub-tabs">
-      <button class="active" data-lang="sa" onclick="openSubTab(event, 'hs-sa', 'harivakya')">સંસ્કૃત</button>
+      <button class="active" data-lang="sa" onclick="openSubTab(event, 'hs-sa', 'harivakya')">संस्कृत</button>
       <button data-lang="gu" onclick="openSubTab(event, 'hs-gu', 'harivakya')">ગુજરાતી</button>
-      <button data-lang="hi" onclick="openSubTab(event, 'hs-hi', 'harivakya')">હિન્દી</button>
+      <button data-lang="hi" onclick="openSubTab(event, 'hs-hi', 'harivakya')">हिंदी</button>
       <button data-lang="en" onclick="openSubTab(event, 'hs-en', 'harivakya')">English</button>
     </div>
 
-    <div id="hs-sa" class="sub-tab-content active">
+    <div id="hs-sa" class="sub-tab-content active lang-sa">
       {{ $hs_sa := .Page.Resources.GetMatch "hs-sa.md" }}
-      {{ if $hs_sa }}{{ $hs_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
+      {{ if $hs_sa }}{{ $hs_sa.Content | safeHTML }}{{ else }}<p>संस्कृत કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
     </div>
-    <div id="hs-gu" class="sub-tab-content">
+    <div id="hs-gu" class="sub-tab-content lang-gu">
       {{ $hs_gu := .Page.Resources.GetMatch "hs-gu.md" }}
       {{ if $hs_gu }}{{ $hs_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી કન્ટેન્ટ આવી રહ્યું છે...</p>{{ end }}
     </div>
-    <div id="hs-hi" class="sub-tab-content">
+    <div id="hs-hi" class="sub-tab-content lang-hi">
       {{ $hs_hi := .Page.Resources.GetMatch "hs-hi.md" }}
       {{ if $hs_hi }}{{ $hs_hi.Content | safeHTML }}{{ else }}<p>हिंदी कंटेंट आ रहा है...</p>{{ end }}
     </div>
-    <div id="hs-en" class="sub-tab-content">
+    <div id="hs-en" class="sub-tab-content lang-en">
       {{ $hs_en := .Page.Resources.GetMatch "hs-en.md" }}
       {{ if $hs_en }}{{ $hs_en.Content | safeHTML }}{{ else }}<p>English content coming soon...</p>{{ end }}
     </div>
@@ -47,25 +47,25 @@
     </h2>
     
     <div class="sub-tabs">
-      <button class="active" data-lang="sa" onclick="openSubTab(event, 'st-sa', 'setumala')">સંસ્કૃત</button>
+      <button class="active" data-lang="sa" onclick="openSubTab(event, 'st-sa', 'setumala')">संस्कृत</button>
       <button data-lang="gu" onclick="openSubTab(event, 'st-gu', 'setumala')">ગુજરાતી</button>
-      <button data-lang="hi" onclick="openSubTab(event, 'st-hi', 'setumala')">હિન્દી</button>
+      <button data-lang="hi" onclick="openSubTab(event, 'st-hi', 'setumala')">हिंदी</button>
       <button data-lang="en" onclick="openSubTab(event, 'st-en', 'setumala')">English</button>
     </div>
 
-    <div id="st-sa" class="sub-tab-content active">
+    <div id="st-sa" class="sub-tab-content active lang-sa">
       {{ $st_sa := .Page.Resources.GetMatch "st-sa.md" }}
       {{ if $st_sa }}{{ $st_sa.Content | safeHTML }}{{ else }}<p>સંસ્કૃત ટીકા આવી રહી છે...</p>{{ end }}
     </div>
-    <div id="st-gu" class="sub-tab-content">
+    <div id="st-gu" class="sub-tab-content lang-gu">
       {{ $st_gu := .Page.Resources.GetMatch "st-gu.md" }}
       {{ if $st_gu }}{{ $st_gu.Content | safeHTML }}{{ else }}<p>ગુજરાતી ટીકા આવી રહી છે...</p>{{ end }}
     </div>
-    <div id="st-hi" class="sub-tab-content">
+    <div id="st-hi" class="sub-tab-content lang-hi">
       {{ $st_hi := .Page.Resources.GetMatch "st-hi.md" }}
       {{ if $st_hi }}{{ $st_hi.Content | safeHTML }}{{ else }}<p>હિન્દી ટીકા આવી રહી છે...</p>{{ end }}
     </div>
-    <div id="st-en" class="sub-tab-content">
+    <div id="st-en" class="sub-tab-content lang-en">
       {{ $st_en := .Page.Resources.GetMatch "st-en.md" }}
       {{ if $st_en }}{{ $st_en.Content | safeHTML }}{{ else }}<p>English commentary coming soon...</p>{{ end }}
     </div>
@@ -73,7 +73,7 @@
 </div>
 
 <script>
-// Translation dictionary
+// Translation dictionary (unchanged)
 const translations = {
   mainTabs: {
     harivakya: {
