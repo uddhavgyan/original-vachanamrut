@@ -7,7 +7,7 @@ The goal of this project is to make the original and pure Vachanamrut of Lord Sh
 
 ## About the Project
 
-The Vachanamrut is the primary scripture of the Swaminarayan Sampradaya, containing 262 or 273 discourses of Shriji Maharaj (the number varies by gadi). Over time, changes occurred in manuscripts, so to preserve the original purity:
+The Vachanamrut is the primary scripture of the Swaminarayan Sampradaya, containing 262 discourses of Shriji Maharaj. Over time, changes occurred in manuscripts, so to preserve the original purity:
 
 - Sadguru Shatanand Muni translated the original Gujarati Vachanamrut into Sanskrit, creating the text **Shriharivakyasudhasindhu**.
 - The first Acharya of the Vadtal Gadi, Shri Raghuvirji Maharaj, wrote an extensive Sanskrit commentary on it called **Setumala**.
@@ -29,11 +29,11 @@ Your contributions to this open-source project are most welcome! Help is especia
 1. **Fork** this repository on GitHub.
 2. **Clone** it to your computer:
 
-git clone https://github.com/your-username/original-vachanamrut.git
+`git clone https://github.com/your-username/original-vachanamrut.git`
 
 3. Create a new **branch** (use a meaningful name, e.g., `tika-g1-english`):
 
-git checkout -b your-branch-name
+`git checkout -b your-branch-name`
 
 4. Edit the relevant Vachanamrut Markdown file in the `content/` folder.
 - Always keep Sanskrit text in **Devanagari** script.
@@ -42,8 +42,8 @@ git checkout -b your-branch-name
 
 5. **Commit** your changes (with a clear message):
 
-`git add .
-`git commit -m "Gadhada Pratham 1: Added English translation of Setumala commentary"
+`git add .`
+`git commit -m "Gadhada Pratham 1: Added English translation of Setumala commentary"`
 
 6. **Push** your branch and open a **Pull Request** to the main repository.
 7. In the Pull Request, provide a detailed description of what changes were made and why.
@@ -53,7 +53,7 @@ git checkout -b your-branch-name
 - For large or potentially controversial changes, discuss in GitHub Issues first.
 - You can preview the website locally:
 
-`hugo server
+`hugo server`
 
 
 Your contributions will help the pure form of the original Vachanamrut reach devotees worldwide. Heartfelt thanks for your efforts! 🙏
