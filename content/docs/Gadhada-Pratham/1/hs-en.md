@@ -22,7 +22,7 @@ Hearing this question and answer, all the sadhus became extremely pleased. There
 
 “O Krishna! O Hari! I wish to know the nature of Your maya that is spoken of.” Upon saying this, Shri Hari replied to him, **॥11॥**
 
-“Whatever obstructs the meditation of the meditator – that alone should be understood as maya, by which I, My devotees, and all humans become deluded.” **॥12॥**
+“Whatever creates an obstacle or disturbance for the yogi or devotee who is engaged in meditation (dhyāna), that should be understood as nothing but māyā (illusion) — the very māyā by which the notions of “I” (ego, ahaṃkāra) and “mine” (possessiveness, mamakāra) arise in the minds of human beings.” **॥12॥**
 
 Then Muktanand Swami asked, “O Lord! When a devotee of God leaves the gross body at the end and proceeds to Your supreme abode, what kind of body does he attain?” Hearing this, Shri Hari became extremely pleased and said, **॥13॥** **॥14॥**
 
@@ -30,7 +30,7 @@ Then Muktanand Swami asked, “O Lord! When a devotee of God leaves the gross bo
 
 “There, some ride upon Garuda, some upon great chariots, and some upon divine vimanas – this is directly perceived by one in yogic samadhi.” **॥16॥**
 
-Thereafter, a devotee named Harjivandas expressed his curiosity and asked, “O Lord! Please listen to my question and kindly answer it.” **॥17॥**
+Thereafter, a devotee named Harji expressed his curiosity and asked, “O Lord! Please listen to my question and kindly answer it.” **॥17॥**
 
 “Despite engaging in satsang for a long time, why does one not develop the same intense attachment towards satsang as one has towards one's own body and relatives?” Upon asking this, Shri Hari replied, **॥18॥**
 
