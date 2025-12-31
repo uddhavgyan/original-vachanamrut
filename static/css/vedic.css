@@ -300,3 +300,14 @@ h2 {
     padding: 1.2rem !important;
   }
 }
+abbr[title] {
+  border-bottom: 2px dotted currentColor;
+  cursor: help;
+  text-decoration: none;
+  border-color: #8B4513;
+}
+
+abbr[title]:hover {
+  
+  border-color: #b96d49;
+}

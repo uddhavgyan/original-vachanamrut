@@ -51,7 +51,7 @@ As Vyasji says in the Mahabharata:
 
 This is further said in half a shloka —  
 **जीवेति**  
-“If such a devotee wishes to see separately the forms of jiva, kshetrajna (knower of the body), ishwar, virat, brahm (abode), aksharbrahm with its divine attributes, akshar-purush (lord of mul-prakruti), maya, mul-prakruti, etc., he sees them immediately in reality.” **॥8॥**
+“If such a devotee wishes to see separately the forms of the <abbr title="Jīvaḥ kṣetrajñaś ca → Ordinary individual souls (souls bound in samsara), who are the knowers of the body (kṣetra). These are described in Bhagavad Gita Chapter 13.">kṣetrajña jīvas</abbr>, the <abbr title="Virāṭ (the cosmic form), Brahmā, Śiva and other gods/lords">Virāṭ and other īśvaras</abbr>, the Akṣarapuruṣa (Brahm) who is the lord of mūlaprakṛti and who has attained the state of Akṣarabrahma, as well as māyā in the form of mūlaprakṛti (unmanifest prakṛti) and pradhāna (prakṛti with the three guṇas), etc., then he immediately beholds them directly.” **॥8॥**
 
 **वैकुण्ठेति**  
 “Such a devotee directly sees his desired Vaikunth and other abodes (**आदिशब्दादोलोकाक्षरब्रह्मश्वेतद्वीपादीनां ग्रहणम्** — including aksharbrahm, shwetdweep etc.). Therefore, this previously mentioned sadhan is described as supremely excellent and extremely difficult among all sadhans.” **॥9॥**
