@@ -197,9 +197,9 @@ a:hover {
 
 /* English – Slightly larger for readability */
 .sub-tab-content.lang-en {
-  font-size: 1.08rem !important;
+  font-size: 1.02rem !important;
   font-weight: 400 !important;
-  line-height: 2.1;
+  line-height: 2.0;
   font-family: 'Georgia', 'Noto Serif', serif;  /* Optional: more traditional feel */
   text-align: justify !important;
 }
