@@ -31,7 +31,7 @@ Thus, when earnestly prayed to by Dharma with humility, the Brahmana, granting g
 
 Though this curse has been uttered by me out of ignorance, it shall not prove otherwise; yet this <mark1>Narayana</mark1> Himself will free you all from it. **॥42॥**
 
-He shall incarnate on earth as the <mark1>son of Dharma and Murti</mark1>, and as a youthful sage, will surely protect you from the demons. **॥43॥**
+This Sri Narayana, taking the form of the <mark1>son of this couple (Dharma and Murti)</mark1>, will descend on earth and will definitely protect both of you and the great sages from the asuras. **॥43॥**
 
 Having said this, the sage bowed to the Lord and departed again for the White Mountain; then Bhagavan spoke to Dharma, who was fearful because of the curse. **॥44॥**
 
