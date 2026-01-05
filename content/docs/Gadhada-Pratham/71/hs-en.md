@@ -38,7 +38,7 @@ Their doctrines are mutually opposed—one holds Brahman to be with form, the ot
 
 Hearing this, the Lord was pleased and said, “What is dear to you is dear to Me as well.” **॥19॥**
 
-Today, all devotees here are attaining Purushottam Bhagwan; therefore, nothing beyond this remains to be known or attained. Yet, if one desires to behold Golok, Brahmapur, Vaikuntha, and other supreme abodes along with His divine splendor, then—does such a devotee’s conviction regarding God remain pure or not? This is an extremely subtle question I pose. **॥20॥** **॥21॥** **॥22॥**
+Today, all devotees here are attaining Purushottam Bhagwan; therefore, nothing beyond this remains to be known or attained. Yet, if one desires to behold Golok and other supreme abodes along with His divine splendor, then—does such a devotee’s conviction regarding God remain pure or not? This is an extremely subtle question I pose. **॥20॥** **॥21॥** **॥22॥**
 
 Then the saints said— “O Hari! This devotee’s conviction is not complete, because he desires to see something other than Krishna as well.” **॥23॥**
 
