@@ -71,7 +71,7 @@ Nevertheless, if a devotee has desire to see the divine amayik many riches endow
 In this satsang, does a devotee who does not desire to see such Bhagavad aishwarya have this firm conviction in heart or not that Hari who has come in narakrti is the lord of Akshardham? O saints! Give answer to My question. ॥22॥
 
 **सन्त इति**  
-At that very time, upon hearing Shri Hari's words, saints like Muktanand said – O Hare! Such a devotee who does not desire to see Your aishwarya does not have that conviction in heart, because that devotee desires to see something else from You, the sole refuge of all aishwaryas, manifest Shri Krishna Bhagavan. ॥23॥
+At that very time, upon hearing Shri Hari's words, saints like Muktanand said – O Hare! Such a devotee who desire to see Your aishwarya does not have that conviction in heart, because that devotee desires to see something else from You, the sole refuge of all aishwaryas, manifest Shri Krishna Bhagavan. ॥23॥
 
 **हरिरिति**  
 When they answered thus, Hari said – O saints! What fault is there in such a devotee's desire to see Bhagavad aishwarya? No fault is seen, because that person desires to see the dham etc. of his own Ishtadev manifest Bhagavan only, not anything different from His relation. ॥24॥
