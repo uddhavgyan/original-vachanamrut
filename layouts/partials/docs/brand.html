@@ -1,9 +1,51 @@
-<!-- Replace the content of layouts/partials/docs/brand.html with this -->
-
-
-<a class="flex-align-center brand-title" href="{{ .Site.BaseURL }}" >
+<!-- layouts/partials/docs/brand.html -->
+<a class="flex-align-center brand-title" href="{{ .Site.BaseURL | absURL }}">
+  <!-- Custom logo instead of book icon -->
   <span class="brand brand-icon" aria-hidden="true">
-    📖
+    <img 
+      src="{{ "images/brand/logo-new.png" | absURL }}" 
+      alt="મૂળ વચનામૃત Logo" 
+      class="brand-logo-img"      
+      loading="eager"
+    />
   </span>
-  <span class="brand brand-text">મૂળ વચનામૃત</span>
+
+  
 </a>
+<style>
+  /* static/css/vedic.css */
+
+/* Brand logo styling */
+.brand-title {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* space between logo and text if you keep text */
+}
+
+.brand-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-logo-img {
+  display: block;
+  max-height: 65px;          /* adjust as needed */
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15)); /* subtle shadow */
+}
+
+/* Optional: Make logo slightly larger on hover */
+.brand-title:hover .brand-logo-img {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+/* Hide original book icon completely if needed */
+.brand-icon svg,
+.brand-icon .book-icon {  /* in case theme uses font-awesome or similar */
+  display: none !important;
+}
+</style>
