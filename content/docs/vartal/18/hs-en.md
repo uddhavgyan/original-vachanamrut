@@ -18,7 +18,7 @@ He is to be known as <mark1>Uddhava in the form of Ramanand Swami</mark1>, to wh
 
 In the great kshetra named Shrirang, there is his samadhi. Thereafter, he received Vaishnava diksha, and I became his disciple. **॥8॥**
 
-In my Ayodhya Prasad, accepting Raghuvir as son, <mark>the guru-ship is established in Dharmavanshi – this is the guru-order</mark>. **॥9॥**
+<mark>By me, Ayodhya-Prasad and Raghuveer were accepted in the manner of sons; through this, Guruship was established in the Dharmavansha—this indeed is the Guru-succession.</mark>**॥9॥**
 
 In the Uddhava path, there are <mark1>eight desired scriptures</mark1>— <mark1>Vedas, Vyasa-sutras, Shrimad Bhagavatam</mark1> etc. **॥10॥**
 
