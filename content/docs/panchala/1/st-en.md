@@ -1,175 +1,194 @@
-### Wave 218
----
+# 127th Tarang
 
-> *It is verily to be known necessarily by all satsangi persons – the characteristics of sampradaya etc. have been fully remembered in the eighteenth (wave/chapter) **॥१॥***
+>- May that Shri Hari, who makes His own numerous devotees extremely happy through the nectar of His words, be our Lord Hari-Krishna, the bestower of intelligence, who continues to shower compassion upon us like an ocean of mercy in the form of a father. ॥1॥
+>- I shall expound, according to my understanding, the seven auspicious Waves related to Panchalkhet in Harivakyasudhasindhu. ॥2॥
+>- There, right at the beginning, the exposition of that thought has been given, by means of which — those five objects (sound, touch, form, taste, smell) that appear to arise from Maya and seem charming and attractive in appearance — become insignificant. ॥3॥
 
 **शकेति ।**  
-The first half related to the Shaka era has already been explained earlier. This text (or event) occurred on the pratipada tithi of the bright half of Magha month in Shaka Samvat 1882. The words of Hari manifested in the form of nectar **॥१॥**
+“Shaka” — The first half of this word has already been explained earlier. In Samvat 1877, on the fourth day of the bright fortnight of Phalguna month — this nectar of Shri Hari’s words manifested. **॥1॥**
 
-**तत्रेति ।**  
-On that tithi. In Vrittalayapura, in Lakshminarayanālaya, in the apavarakapura region of Shri Lakshminarayana, in the northern-facing chandrashala of the great mandapa, that is. On the sadāsana, in the western direction, on a thick cotton (wool) seat covered with a white upper cloth. At the conclusion of sandhya-nirajana, that is, the evening aratrika (arati) of Hari, that is. Shri Hari became manifest **॥२॥**
+**पञ्चालेति ।**  
+On that very date, at the place named Panchalkhet, in the principal Panchal village prosperous with agriculture — inside the fort of King Hemant Raja (Jinabhai), on the outer platform (elevated dais) of the palace of King Hemantsinh, on a very superior seat spread with cushions etc., on a backrest and bed-like seat — wearing fine white cloth, clad in extremely pure white garments over the entire body, at that time with a turban tied on the head, the right eyebrow slightly lowered — in such a recognizable form, Shri Hari was seated there (present). **॥2॥**
 
-**सितेति ।**  
-Sitavāsāh meaning fully clad in white garments. Surrounded on all sides by numerous devotees, renunciates, householders, and dependents who had come from various different countries, encircled by the assembly arrangement. That Shri Hari said to the great saints Muktānanda and others – O sādhvos! I ask a question, listen, receive it with attention **॥३॥**
+**त्यागिभिरिति ।**  
+Surrounded by household devotees who had come from various countries, encircled on all sides in the assembly — those Shri Hari, at the end of the evening Arati, began questioning the great virtuous, excellent saints — among whom principally Muktanand Swami etc. sadhus were there (and along with them Mayaram Bhatt etc. other Hari devotees, indicated here) —  
+It should also be understood that at that time Shri Hari was seated on a seat situated at the side —  
+This was stated by the sadhus who directly witnessed that occasion. **॥3॥**
 
-**सत्सङ्गिनामिति ।**  
-What is necessarily to be known in reality with ease by satsangis, by human beings – having asked in this manner, Shri Hari Himself gave the answer to that question to those sādhus **॥४॥**
-
-**सम्प्रदाय इति ।**  
-Sampradaya is the guru-parampara. Abhishta grantha means the texts approved by the sampradaya-pravartaka. And the dharma of householders and sādhus, and ishta-deva. In this way, these four principles beginning with sampradaya are to be known truly by satsangi persons **॥५॥**
-
-**तत्रेति ।**  
-Among those four beginning with sampradaya, the first sampradaya should be known as the sequence of one’s own gurus – ‘sampradāyo gurukramaḥ’ according to Amarakosha. Among those gurus, the primordial, that is, the first guru Uddhava is to be known for the purpose of adhva-pravartana, that is, the establishment of one’s own sampradaya **॥६॥**
-
-**बोध्य इति ।**  
-He who bears the burden of guru-hood bestowed by Krishna is that very Uddhava.  
-That same Uddhava is Ramananda – that is, Ramanand Swami himself is to be known.  
-The guru of that Ramanand Swami is directly and visibly Ramanuj Lakshmanacharya, who is to be known.  
-Even though in a previous birth he was a disciple of Shri Krishna (in the form of Uddhava), because in the Ramananda incarnation obtained due to the curse of Durvasa Rishi, Ramanuj became his guru, this statement has been made **॥७॥**
-
-To clarify this very point, it is said –  
-**श्रीरङ्गेति ।**  
-That Ramanand Swami received Vaishnavi diksha from the guru, that is, from Ramanuj, in samadhi in the great kshetra named Shriranga. I am the disciple of that Ramanand Swami **॥८॥**
-
-**मयेति ।**  
-The son born in Dharmavansh by me, the son of Dharmavansh-bhava, having been accepted as a son through the datta-vidhi, in Ayodhyaprasad Raghuvīr my guru-hood, that is, the burden of acharya, is placed, that is, established. In this way the guru-krama sampradaya is to be known. **॥९॥**
-
-**ग्रन्था इति ।**  
-In the Uddhava-marga (Uddhava tradition) a total of eight granthas are intended and accepted.  
-The names of those granthas are indicated by the following two shlokas.  
-They are – the four Vedas (Nigama), Vyasa’s sutras (Brahmasutra), and Shrimad Bhagavata Purana. **॥१०॥**
-
-**विष्णिवति ।**  
-Vishnu-sahasranama stotra, spoken by Bhagavan Shri Krishna to Arjuna, Gita, and Vidura-niti. These three beginning with Vishnu-sahasranama are to be known as situated in Bharat **॥११॥**
-
-**श्रीवासुदेवेति ।**  
-And Shri Vasudeva-mahatmya situated in Skanda Purana and Yajnavalkya-smriti. These eight granthas are declared **॥१२॥**
-
-**त्यागिनामिति ।**  
-The dharma of tyagis, that is, sādhus, and householders, are to be known fully separately from Shri Vasudeva-mahatmya **॥१३॥**
-
-**इष्टदेव इति ।**  
-<mark>The ishta-deva is the Lord Shri Krishna, the husband of Radhika, who is to be known</mark>. The direct and indirect form of this Shri Krishna is to be known. There should be understanding of the unity of the indirect-direct forms having divine and human synonyms, this is the purport **॥१४॥**
-
-**परोक्षमिति ।**  
-His indirect form is <mark1>in Goloka</mark1>, there (in Goloka) also situated in Brahmadham-stha (according to the sampradaya: the Brahmajyoti situated in the middle of Goloka is itself called Aksharadhama) <mark1>Aksharadhama</mark1>, <mark1>always two-armed</mark1> – endowed with two arms, <mark1>served by Radha and other women</mark1>, having effulgence equal to crores of suns **॥१५॥**
-
-**श्रीदामेति ।**  
-That indirect form of His is served by principal associates beginning with <mark1>Shridama and Nanda</mark1>. That <mark>indirect form Krishna is the creator, maintainer, and destroyer of infinite crores of universes</mark> **॥१६॥**
-
-**चतुरिति ।**  
-That Shri Krishna, assuming four-armed, eight-armed, thousand-armed own forms, is seated differently in other positions such as Vaikuntha etc. from Aksharadhama **॥१७॥**
-
-**वासुदेवेति ।**  
-Lord Shri Krishna becomes chaturvyuha in forms beginning with Vasudeva. This Shri Krishna becomes twenty-four kinds through the forms of Keshava etc. vyuhas in the self **॥१८॥**
-
-**स इति ।**  
-He alone, Shri Krishna, assumes incarnations such as Varaha etc. in Bhuloka. <mark>The purport of all scriptures, beginning with the Vedas, is only Shri Krishna</mark>. All scriptures propound Him either directly or indirectly, this is the meaning **॥१९॥**
-
-**परोक्षमिति ।**  
-In this way the indirect form of Krishna is to be known in reality. The direct form is the human-formed one existing in Bhuloka which is to be known **॥२०॥**
-
-**नराकृतेरिति ।**  
-The complete character of the human-formed Bhagavan Shri Krishna is described directly by the Bhagavad-avatara Vyasa Krishnadvaipayana. It is described in Shrimad Bhagavata, Bharata etc., this is the meaning. They are worthy of being heard by mumukshus with great devotion **॥२१॥**
-
-In the audibility of Vyasa-composed granthas, stating as the reason his Bhagavad-avatara-hood, Vedadi-acharya-hood, and the self-evident pramanatva of his statements like the Veda –  
-**आचार्येभ्य इति ।**  
-<mark>All acharyas consider Vyasa alone as the greatest because, just like the Vedas, his statements possess self-evident authority, and there is no cause for invalidity in them. Since the Vedas are the words of Bhagavan, and Vyasa is a direct incarnation of Bhagavan, just as the Vedas require no further validation, Vyasa’s explanations also require no external validation. Therefore those very statements are worthy of being heard by mumukshus – this is the purport</mark> **॥२२॥**
-
-The well-known Audulomi, Jaimini etc. acharyas in the parampara of Badarayana-Vyasa were contemporaries of Shri Krishna-avatara; therefore their opinions could not become specially famous at that time. Leaving them aside, after about three and a half thousand years of Kaliyuga had passed, the acharyas such as Shankaracharya etc. who appeared and are famous in the present time also accept Vyasa-acharya alone as authoritative – this is stated by this half-shloka.
-
-**आचार्या इति ।**  
-That is, Shankaracharya, Ramanujacharya, Madhvacharya, and similarly Nimbarkacharya, Vishnuswami etc. other acharyas. All these acharyas became promoters and causes of sad-dharma on earth. **॥२३॥**
-
-**व्यासेति ।**  
-All those Shankar etc. acharyas accept the statements of Vyasa as authoritative. <mark1>Therefore those statements of Vyasa are primarily authoritative for us</mark1> **॥२४॥**
-
-**स इति ।**  
-That Vyasa, for the welfare of human beings, first divided the Veda into four kinds – Rig etc. by name-distinctions, making it fourfold – ‘vyadadhād yajñasantatyai vedamekaṃ caturvidham’ according to Shrimad Bhagavata (1-4-19). After that he composed all other Puranas beginning from Brahmapurana and (Maha)Bharata **॥२५॥**
-
-**तथेति ।**  
-Nevertheless, even after so many efforts made by Vyasa, since the means for ultimate welfare was not clearly stated by me, thus Vyasa, afflicted with sorrow, composed Shrimad Bhagavata. Thereby his sorrow was pacified and previous satisfaction was obtained, this is the purport **॥२६॥**
-
-Now praise of the Shrimad Bhagavata grantha composed by him is stated –  
-**वेदेति ।**  
-<mark>Having taken the entire essence of Vedas, shastras, Puranas, Panchratra, and Arsha Ramayana etc., this rasa-filled Shrimad Bhagavata was composed by Vyasa</mark> **॥२७॥**
-
-**तत्रेति ।**  
-<mark1>There in Shrimad Bhagavata it is said that Lord Shri Krishna Himself is the bearer of all avatars and therefore the source of all avatars</mark1>. That Shri Krishna is always devoid of illusory material qualities **॥२८॥**
-
-**स्वेति ।**  
-The self-nirguna nature of Shri Krishna Himself is clearly stated to Uddhava in the gunadhyaya (25th chapter of gunavibhaga) of the eleventh skandha **॥२९॥**
-
-**निर्गुणस्येति ।**  
-Nirguna – only in relation to that Krishna do qualitative states – karma, jnana, desha etc. attain nirgunatva. Therefore Krishna alone is nirguna **॥३०॥**
+**भक्तेनेति ।**  
+O Sadhus! He (the devotee) who is firm in his own dharma, properly established in his respective svadharma,  
+who has love for <mark1>Rama (Lakshmi) pati, the direct Shri Krishna</mark1>, who practices the ninefold devotion with love —  
+By such a devotee, for one who desires to abandon the affection and attachment that exists toward all Maya-bound objects distinct from God (that is, all enjoyable things of the world) — what kind of contemplation should be done —  
+this is what is being asked here. **॥4॥**
 
 **येनेति ।**  
-Some – those persons who attain relation with nirguna Krishna through any sentiment such as lust, hatred, fear etc., they attain nirgunatva **॥३१॥**
+“By which thought” — may these five objects that appear charming in sight become equal to other unpleasing and condemned objects — or, becoming even inferior to them, appear more insignificant than the condemned objects — tell me such a thought, all of you explain it to me. **॥5॥**
 
-**यदीति ।**  
-If Krishna were not nirguna, if He were pure-sattvic, then how could the gopis etc. become nirguna by relation with Him – this is the remainder **॥३२॥**
+**इतीति ।**  
+“Thus” — In this manner, when questioned by Shri Hari, those great saints — began to express the complete comprehensive thought that had been determined by each one individually, decided through their own discrimination. Having heard that thought spoken by those saints —  
+Lord Shri Hari said. **॥6॥**
 
-**अत इति ।**  
-Therefore Krishna is indeed nirguna. There is no doubt in this meaning. Shri Krishna Himself stated in the Gita to Arjuna the divine and non-material nature of His birth, actions etc. **॥३३॥**
+**श्रुत इति ।**  
+O Sadhus! I have properly heard your thought. Now at this time, whatever is my own definite and true thought, that I tell all of you. Therefore, paying attention, concentrating the mind, listen to this attentively — hear it well. **॥7॥**
 
-The same is stated –  
-**जन्मेति ।**  
-O Arjuna! According to the previous three shlokas, that person who knows My birth, actions, character in reality as divine, he does not take birth again after leaving the body, but attains Me alone **॥३४॥**
+**सच्छास्त्रेति ।**  
+O Sadhus! When the thought of <mark1>Shri Krishna’s happiness</mark1> is considered through the statements of true scriptures, then — even that which appears charming in sight, all illusory material happiness and object-related happiness of Maya,  
+attains insignificance, extreme littleness — that is, condemnable inferiority. **॥8॥**
 
-**कृष्णेनेति ।**  
-By this nirguna Krishna, wonderful transformations are also shown to some devotees by His own will **॥३५॥**
+*In this way, what was stated generally is now being repeated specifically.*
 
-**चतुरिति ।**  
-That Krishna shows four-armed, eight-armed, thousand-armed forms also to devotees such as Devaki etc. as per necessity through His opulence **॥३६॥**
+It is also established from the statements of the great men of ancient times — Narada, Shukadeva, Dhruva, Indra etc. From the statements of these great men situated in the true scriptures (Shrimad Bhagavat etc.) also, the greatness and <mark>infinite superiority</mark1> (supremacy) of <mark>Shri Krishna-related happiness</mark> is ascertained. On the contrary, other happinesses are insignificant compared to Bhagavat happiness, and illusory happinesses are extremely meager — this too is ascertained.
 
-**तेषामिति ।**  
-Since there is difference between those three forms and the actual two-armed real form of nirguna Krishna, the difference in scriptural worship is appropriate **॥३७॥**
+And it is said in Shrimad Bhagavat —
 
-**एकस्येति ।**  
-<mark>Some worshipers describe various forms of worship based on differences of place – Gokul, Mathura, Dwarika etc., states – childhood, youth etc., attire – peacock-feather crown etc. of the same two-armed form. Taking other supports like place etc. and accepting differences in the same murti, they speak of difference in worship – this is the meaning</mark> **॥३८॥**
+>- **तस्यैव हेतोः प्रयतेत कोविदः** (भा. १.५.१८) — The wise person should strive only for that by which the supreme happiness is attained.  
+>- **प्रेमातिशयेन निभिन्न-पुलकाङ्गोऽतिनिवृतः** (भा. १.६.१८) — Due to excessive love, the body becomes thrilled and extremely delighted.  
+>- **निरस्त-साम्यातिशयेन राधसे** (भा. २.४.१४) — Happiness endowed with superiority, free from equality, is attained.  
+>- **विचक्षणा यत् चरणोपसादनात्** (भा. २.४.१६) — The wise take shelter at whose feet.  
+>- **या निवृत्तिस्तनुभृतां तव पादपद्म-ध्यानादि** (भा. ४.९.१०) — The cessation (liberation) of embodied beings occurs through meditation on Your lotus feet.  
+>- **यस्य भक्तिर्भगवति हरौ निःश्रेयस्-वरे । विक्रीडतोऽमृताम्भोधौ किं क्षुद्रैः खातकोदकैः** (भा. ६.१२.२२) — He whose devotion is to Lord Hari, the Lord of the highest welfare — sporting in the ocean of nectar, what is the use of petty dug-out pond water?
+**॥9॥**
 
-**नेति ।**  
-<mark>Such worship is not our opinion. Being unscriptural it is not accepted by me.</mark> Therefore mumukshus should not accept that through my dependents. In the same way, Krishna’s conduct also should not be followed **॥३९॥**
 
-**स्वेति ।**  
-That which truly awakens svadharma, jnana, vairagya, bhakti – the mahatmya of Shri Krishna Himself and His ekantika bhaktas is the awakener **॥४०॥**
+In this way, having stated the superiority of Krishna-happiness from the words of great men situated in true scriptures <mark1>by saying the superiority of Krishna-happiness</mark1>, now further (the meaning of Upanishad statements). —
+>- **रसो वै सः । रसं ह्येवायं लब्ध्वानन्दी भवति** (तैत्तिरीय आनन्दवल्ली ७.१) — He (the Supreme Self/God) is of the nature of Rasa. Only by obtaining Rasa does the jiva become blissful.  
+>- **एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्ति** (बृहदारण्यक ४.३.३२) — All other beings live merely on a fraction of this very bliss.
+And the verses of Shrimad Bhagavat —
+>- **त्वं वै समस्त-पुरुषार्थ-मयः फलात्मा** (भा. १०.६०.३८) — O Lord! You alone are the embodiment and fruit of all purusharthas (dharma, artha, kama, moksha).
 
-**उद्धवमिति ।**  
-The words spoken by Jagadguru Shri Krishna to Uddhava, the words to Arjuna, or the words to other devotees **॥४१॥**
+Keeping all this in mind, even compared to perishable happinesses like heaven etc., <mark1>God’s happiness is supreme, extremely abundant, and infinite</mark1> — with this intention, it is being stated in 24 verses.
 
-**तानिति ।**  
-Those words alone are to be accepted respectfully and completely by devotees. One should not imitate Krishna’s conduct by seeing it – this is the one relation of all three **॥४२॥**
+**भारत इति** \
+O Sadhus! In Bharatvarsha (in Mahabharata, Puranas, Shrimad Bhagavat etc.), Shri Hari (Krishna) has always been described as **having form** that is, possessing an eternal, divine, personal form. Therefore, precisely because of having such a form, They are also described as **the Creator, Sustainer, and Destroyer of the universe**.
 
-**गोपेति ।**  
-Some – the use of gopa-ucchishta, the remnant food eaten by gopas, Yashoda’s lila etc. which is Krishna’s character, seeing that, that person in this world who imitates such conduct **॥४३॥**
+In the Mahabharata (Bhagavad Gita) —
+> **अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते** (गी. १०.८) — I am the source of all; from Me everything proceeds.
+
+In Shrimad Bhagavat —
+> **स वा अयं सख्यनुगीत-सत्कथः** इत्यादि (भा. १.१०.२४). — He is the same Lord Shri Krishna whose pure stories are sung by His friends, and who is described even by the profound knowers of the Vedas. He is the one Supreme God who creates, sustains, and destroys the world through His lila, yet remains unattached to it.
+
+Also in other Puranas —
+> **यस्याज्ञया जगत्सर्वं ब्रह्मा सृजति सुव्रत । विष्णुः पालको रुद्रो नाशकः स हि मोक्षदः** इत्यादि (नारद पुराण आदि). — By whose command Brahma creates the universe, Vishnu sustains it, and Rudra destroys it — that same Lord is the bestower of liberation.
+**॥10॥**
 
 **सदिति ।**  
-That person, corrupted from sadachara, fallen from the conduct-path bound by sadhu-persons, will definitely fall into hell. Therefore my dependent persons should never behave according to such Krishna-conduct **॥४४॥**
+From **सत्** meaning sat-chit-ananda form, **निर्गुण** meaning devoid of the illusory qualities beginning with sattva, **अनादि-अन्त** meaning without beginning or end, that which is <mark1>Akshar Brahma</mark1>, that is this <mark1>Shri Hari’s abode</mark1> meaning the place of residence, so it has been said. And it is stated in Shrimad Bhagavat —
 
-**अशास्त्रीयमिति ।**  
-Just as one should not adopt the unscriptural, worldly-condemned, universally-condemned conduct of Shri Krishna, similarly your guru, your instructor, my conduct also should never be adopted **॥४५॥**
+>- **दर्शयामास लोकं स्वं गोपानां तमसः परम् । सत्यं ज्ञानमनन्तं यद् ब्रह्मज्योतिः सनातनम्** (भा. १०.२८.१४-१५)  
+  The greatly compassionate Lord Hari showed the gopas His own abode (Vaikuntha/Goloka), which is beyond tamas (darkness/Maya) — that is truth, knowledge, infinite, Brahma-effulgence, eternal.
+>- **तदाहुरक्षरं ब्रह्म सर्वकारणकारणम् । विष्णोर्धाम परं साक्षात् पुरुषस्य महात्मनः** (भा. ३.११.४१)  
+  The wise call that Akshar Brahma the cause of all causes. That supreme abode is directly Vishnu’s — the direct abode of the great-souled Purusha (Purushottama).  
+**॥11॥**
+ 
+**ईदृगिति ।** \
+“ईदृक्” meaning such, of this kind — the master of such an Akshar-dhama is self-effulgent, meaning He is self-illuminated, and whose form is by nature the support of supremely excellent light. He is the Lord, meaning extremely powerful and all-capable. That is this Shri Hari. They unite those jivas who have arisen from Maya, who due to the influence of the glance of the Purusha (stimulated by His will) (in prakriti), having been in the state of sleep earlier (during pralaya), are now turned toward birth, unite them with intellect, senses, mind, and vital forces. In the same way it is said in Shrimad Bhagavat —
 
-**वाक्यानीति ।**  
-In the Uddhava-path, that is, Uddhava-marga, the dharma etc. of tyagis-householders – svadharma, jnana, virakti, bhakti, bhagavan-mahatmya etc. – my words awakening these are to be followed by my dependents **॥४६॥**
+> **बुद्धीन्द्रियमनः प्राणान् जनानामसृजत् प्रभुः।**  
+> Meaning — The Lord created for the living beings intellect, senses, mind, and vital forces.
 
-**वर्तिष्यत इति ।**  
-Whoever among my dependents behaves otherwise, differently from what I have stated, should never be considered mine. This conversation instructing the fourfold beginning with sampradaya is to be held in the heart by all my dependents and is to be spoken before everyone **॥४७॥**
+**॥12॥**
 
-**पीत्वेति ।**  
-In this way, having drunk the nectar-like speech of Shri Hari, the son of dharma, all the tyagi-grihastha sanghas present in the assembly become satisfied and carefully hold that speech in the lotus of the heart **॥४८॥**
+**श्रेष्ठेति ।** \
+Thereafter meaning after that, immediately after that. That all-pervading, extremely powerful and all-capable Shri Hari, for the sake of the happiness of those jivas whom He has manifested, creates completely all kinds of enjoyments — superior, medium, and inferior — that is, the happinesses obtained from enjoyment of objects, and also the places of such enjoyments. **॥13॥**
 
-**तमिति ।** – To that very Shri Hari.  
-And further it is said that the community of those tyagis and grihasthas knew only that very <mark1>Shri Hari – who is Himself Shri Krishna –</mark1> in the heart fully and with conviction as their own Lord, their own ishta-deva, and their own guru. Because Bhagavan is fond of remaining indirect (He likes to remain dear in an indirect form), and considers it improper to proclaim His own glory from His own mouth (He is humble, does not praise Himself), even though He is Shri Krishna Himself, if someone speaks of another as Krishna for teaching self-knowledge (such as some other avatara or form), still the devotees know <mark1>"ayam eva so’sti" — "this very one (Shri Hari) is He (Krishna)" — there is no other supreme reality different from Him</mark1>. Therefore their conviction regarding the supreme godhood of Shri Hari is immovable and firm like a mountain; just as a mountain remains steady due to its natural stability, similarly in the hearts of devotees the conviction that Shri Hari alone is the Supreme Lord remains completely steady and unshakable. On the basis of this very immovable conviction they remain engaged in the service of only that Shri Hari through the supreme, exclusive, and ekantika bhakti-upasana. ॥४९॥
+**ब्रह्मेति ।**\
+Beginning from Brahma etc., that is from Virinchi onward up to the subtle insects, ending with extremely subtle living forms, all such embodied jivas, according to their respective karmas, in sequence and in due order, attain and experience those enjoyments. **॥14॥**
 
-<mark>**(Uddhava Jnana – Special Note)**  *Here the repeated use of "श्रीहरिमेव । कृष्णम्", "श्रीकृष्णः सन्नपि" and "अयमेव सोऽस्ति" proves that Shri Hari = Shri Krishna — both are one and the same. The conviction of the devotees is exactly this: there is no difference, He is the one and only Purushottama.*</mark>
+**उत्तमा इति ।** \
+Among those superior, medium, and inferior objects, the five superior objects are also <mark1>created by that very Krishna</mark1>. In reality, they are made for this purpose only — that the suffering arising from inferior object-enjoyment, that is, the affliction produced from enjoyment of base objects, may be pacified and its cessation may occur. **॥15॥**
 
+*This very meaning is clarified by means of an illustration.*
 
-**समापन श्लोक**
+**यथेति ।** \
+Just as some person is extremely wealthy, endowed with immense riches, and also intelligent and of firm religious conviction — such a superior merchant, that is a seth, whom in common language is called ‘shahukar seth’, for the sake of obtaining happiness for extremely poor and destitute travelers, plants on both sides of the road trees with abundant shade, such as banyan trees etc. **॥16॥**
 
+**प्रपा इति ।** \
+And further, he causes to be built on the road drinking sheds, that is, water-supply stations. He also causes beautiful dharma-shalas to be constructed, buildings suitable for travelers to stay. In those dharma-shalas he arranges, in a proper manner without obstructing varnashrama dharma, the giving of food and hospitality etc. **॥17॥**
 
-> *Shri Hari, who is necessarily to be known by all His devotees, and His paroksha-priya nature (fondness for remaining indirect) is His main characteristic. Therefore He gave His teaching/knowledge even in the beginning of His sampradaya (devotee-tradition) in an indirect manner only.**॥१॥***  
-> *May that Bhagavan bestow upon me the knowledge which clearly and truly explains the pratyaksha form (direct incarnation), paroksha form (indwelling/indirect), and His own essential form also.**॥२॥***
+**तथेति ।** \
+In the same way <mark1>Krishna, who is Himself Shri Hari</mark1>, for the sake of the happiness of some fortunate deities — such as <mark1>Brahma, Indra etc. gods</mark1> — and also for similarly meritorious human beings, such as kings and wealthy persons, creates beautiful objects. **॥18॥**
+
+**अनेकेति ।** \
+<mark>Even great gods like Brahma and Indra are like paupers in front of Hari, the Lord of countless millions of universes</mark>. Just as poor people desiring enjoyment fulfill their wishes only by the enjoyments granted by some rich person, similarly Brahma etc. also fulfill their desires only by the enjoyments granted by Shri Hari, not by their own independence — this is the purport. **॥19॥**
+
+*Now the superiority of happiness related to God is shown by means of an illustration.*
+
+**यथेति ।**\
+Just as wise persons, seeing the happiness provided for travelers on the road by a rich man, that is, buildings etc. made for travelers, conclude that in the house of that rich man there must certainly be even greater happiness than that. **॥20॥**
+
+**तथेति ।** \
+Similarly, wise persons, understanding the charming object-happiness described in scriptures for Brahma, Indra etc. jivas, realize that the happiness related to Shri Hari is greater than that and supremely superior even to Brahma’s happiness. **॥21॥**
+
+**धीमन्त इति ।** \
+In this manner, the wise, who are exclusive devotees of God, by serving true scriptures, and by association with exclusive devotees of God and scriptures, come to know the happiness of God’s abode as far superior to all happinesses. **॥22॥**
+
+**अनेनेति ।** \
+Through this discriminating thought that recognizes the immense greatness of <mark1>Krishna’s happiness</mark> and the extreme littleness of other happinesses, for the person who lovingly worships <mark1>Lakshmipati Shri Hari</mark> and serves Him in the form of ninefold devotion, the insignificance and meagerness of beautiful objects comes about. **॥23॥**
+
+**रमणीयेति ।** \
+Whatever supreme charming object-happiness is obtained by any embodied being, that too is in reality the fruit born from devotion and svadharma, meaning for the person who observes his svadharma even with a little devotion to God, that very charming object-happiness becomes his fruit. **॥24॥**
+
+**साक्षादिति ।**  
+Just as the happiness that always exists in the immediate presence of <mark1>direct Shri Krishna</mark1>, such happiness is never obtained anywhere, in any place, by any person, in any manner whatsoever. **॥25॥**
+
+**यथेति ।**  
+Just as there is intense light near a lamp. But at a little distance from that same lamp such light does not remain. And when one goes even farther away, what is there to say about the existence of light? — there it is completely absent. **॥26॥**
+
+**पूर्णेति ।**  
+In the same way, near the storehouse of complete bliss, the <mark1>ocean of perfect bliss Shri Krishna</mark1>, the happiness that an exclusive devotee obtains, <mark1>such happiness is not found anywhere far from Him</mark1>. **॥27॥**
+
+**भक्तेनेति ।**\
+Therefore, the intelligent devotee should endeavor in such a way that by his conduct he becomes situated in the state of remaining near <mark1>Krishna</mark>. That is, he should strive to remain firm in his exclusive dharma. **॥28॥**
+
+**रम्येति ।** \
+Those devotees who become attached to charming worldly objects and engage in illusory object-enjoyment, they become distant from <mark1>Krishna</mark>. They do not perform exclusive devotion with body, speech, and mind. Such devotees, having desires destroyed by time, perish along with the objects. **॥29॥**
+
+**कालेति ।** \
+Therefore, wise exclusive devotees of God, knowing the perishable nature of things, completely abandon affection for illusory objects that are destroyed by time, however charming they may be, and worship <mark1>direct Krishna</mark1>. **॥30॥**
+
+*To further strengthen this statement, by describing progressively greater happinesses, the superiority of God’s happiness is again stated in three verses.*
+
+**नृणामिति ।**\
+The happiness of <mark1>human beings</mark1> is less than the <mark1>happiness of a king</mark1>. The happiness of a king is less than the <mark1>happiness of the gods</mark1>. The happiness of the gods is less than the <mark1>happiness of Indra</mark1>. And the happiness of Indra is less than the <mark1>happiness of Brahma</mark1> also. **॥31॥**
+
+**वैराजस्येति ।** \
+The happiness of Brahma is less than the <mark1>happiness of Vairaja Purusha</mark1>. That is less than the <mark1>happiness of Pradhan Purusha</mark1>. That is less than the happiness of the Lord of original nature, the master of great Maya, the <mark1>Mahapurusha</mark1>. **॥32॥**
+
+**तत इति ।** \
+<mark><mark1>Even greater than that is the happiness of Akshar Brahma</mark1>. And greater even than the happiness of Akshar Brahma is the <mark1>happiness related to Krishna</mark1>, because Krishna is the ocean of infinite and supreme happiness</mark>. In this way it is stated in Nigama (Vedas), Agama (Tantras), and Puranas. The personified (saguna) Vedas etc. scriptures describe it in the same manner. As in the Anandavalli Shruti 
+
+> **‘सैषानन्दस्य मीमांसा भवति’ इत्यारभ्य ‘यतो वाचो निवर्तन्ते’** (तैत्तिरीय उपनिषद्, आनन्दवल्ली, अनुवाक २.१ से लेकर २.१७ तक)
+Meaning “This is the inquiry into bliss” beginning up to “whence speech returns”.
+
+ etc. is said, 
+> **आनन्दमयोऽभ्यासादिति न्यायश्च** meaning “Anandamaya due to repetition” (Brahma Sutra 1.1.12) this maxim also (that is, the Supreme Self/Brahma is of the nature of bliss — this is established by repetition).
+
+ This maxim also indicates the same. **॥33॥**
+
+**एवमिति ।** \
+In this manner, by contemplating the great happiness present in the form of God, all other happinesses distinct from God appear insignificant and extremely meager in my opinion. **॥34॥**
+
+**यस्येति ।** \
+For the exclusive devotee of Hari whose intellect becomes pure due to that devotion, complete indifference arises toward worldly and illusory object-happinesses through such contemplation. **॥35॥**
+
+**बुद्धिमानिति ।** \
+Therefore, such a pure-minded exclusive devotee of Hari is dear to me, because due to the desire for obtaining Shri Hari’s happiness, such a devotee never has attraction toward other illusory objects. **॥36॥**
+
+**यूयमिति ।** \
+O Saints! You too are wise. Therefore, among all thoughts, accept this thought that I have stated earlier as the best. **॥37॥**
+
+**एतदिति ।**\
+For the mumukshu exclusive devotee in whose mind this thought becomes firm, even if that devotee is in a dense forest, he considers himself surrounded by many people and regards himself as happy. **॥38॥**
+
+**एष इति ।** \
+Such a devotee with firm thought, even if residing in Indraloka, considers himself as dwelling in a forest, and never regards himself as truly happy due to the happiness of Indraloka. **॥39॥**
+
+**हरीति ।** \
+O Sadhus! <mark1>For the attainment of the great and perfect happiness of Shri Krishna I have obtained this thought</mark1>. All of you, being wise, abandoning the pleasures of household life, with joy make this thought firm. Then Muktananda etc. saints and Mayaram Bhatt etc. household devotees, extremely pleased, said — “O Hari! As You say, so shall we do.” Having said this, they offered loving obeisance to Shri Hari with deep affection. **॥40॥**
+
+> **यः स्वभक्तान् स्वसौख्यस्य निरवध्यतिशायिताम् । अब्रवीच्छ्रीहरिर्मह्यं दत्तात्स्वसुखमेव सः ॥१॥** \
+> May that Shri Hari who declares to His devotees the boundless superiority of His own happiness, grant me also that very happiness of His.
 
 ---
 
-**Thus concludes the 218th wave (chapter/section) of the ‘श्रीहरिवाक्यसुधासिन्धु’ commentary on the ‘सेतुमाला’ text composed by रघुवीराचार्य, the son of श्रीहरिकृष्ण भगवान, promoter of ekantika-dharma, and exclusive devotee of Shri Hari. ॥२१८॥१८॥**
+**Thus ends the 127th Wave (Tarang) in the commentary on Shri Harivakyasudhasindhu composed by Acharya Raghuvir, the son of Lord Shri Harikrishna, the promoter of exclusive dharma, the exclusive worshipper of Shri Hari. ॥127॥1॥**
