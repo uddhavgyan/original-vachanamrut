@@ -25,7 +25,11 @@ Among these, the explanation of the 78 tarangs related to Durgpur (Gadhada) is b
 
 ### Date and Context
 
-In the Shaka year 1876 (corresponding to Vikram Samvat 1936, approximately 1879-80 CE), on the fourth tithi of the bright half of Margshirsh month, this Vachanamrut (discourse) of Shri Hari took place. (Remaining: abhavat – occurred.)
+In the era of Vikramārka (a name signifying the sun of his valor) of King Vikramāditya Bhūpati,
+in the year denoted by rasa (6) + aśva (7) + vasu (8) + bhūmi (1) — meaning 1876 in the sequence from right to left (6781 rearranged as 1876) —
+in the 1876th year of the Shaka Samvat (described as eighteen hundred plus seventy-six, i.e., 1800 + 76 = 1876, approximately corresponding to 1876 CE + 78 = 1954 CE),
+on the fourth day (chaturthī) of the bright fortnight (śukla pakṣa) of the month of Mārgaśīrṣa,
+this vākyāmṛta (nectar-like teaching/discourse) of Śrī Hari was delivered/spoken.
 
 **तत्रेति**  
 There — on that date in Durgpur (Gadhada), in the excellent king’s fort — as per Haim dictionary, ‘durg means fort and inaccessible place’. There also in the sadhus’ math (residence), in the assembly of His own devotees — among tyagi and grihastha devotees from various places — clad in white garments, Shri Hari Himself, after Vasudeva sandhya and aarti, came from His residence and sat on the prepared throne **॥2॥**
