@@ -2,7 +2,7 @@
 
 ---
 
-In the Vikramaditya era of the Shaka Samvat, in the year denoted by Rasa (6) + Ashva (7) + Vasu (8) + Bhumi (1) (that is, in <mark1>1876</mark1> Shaka Samvat), on the tenth day of the bright fortnight, this ambrosial discourse of Shri Hari took place. **॥1॥**
+In the Vikramaditya era of the Shaka Samvat, in the year denoted by Rasa (6) + Ashva (7) + Vasu (8) + Bhumi (1) (that is, in <mark1>1876</mark1> Shaka Samvat),in the month of 'Margashirsha' on the tenth day of the bright fortnight, this ambrosial discourse of Shri Hari took place. **॥1॥**
 
 In that Durgapur (Gadhada), in the fort of the 'Uttam' king (Dadakhachar), Lord Shri Hari, seated amidst an assembly of ascetics and householders, dressed in white garments, spoke to His people. **॥2॥**
 
