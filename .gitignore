@@ -1,5 +1,6 @@
 # Hugo build output
 /public/
+resources/_gen/
 
 # Dependencies
 /resources/
