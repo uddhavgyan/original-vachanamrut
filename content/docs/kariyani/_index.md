@@ -1,4 +1,5 @@
 ---
 title: "કારિયાણી (૧૨)"
 weight : 4 
+bookCollapseSection: true
 ---
