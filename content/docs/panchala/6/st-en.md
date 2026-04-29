@@ -43,18 +43,18 @@
 
 ---
 
-**अक्रुरायेति** . In the waters of Kalindi (Yamuna), He also showed Akrura (Gandineya) His form reclining on Shesha. And by showing many universes (revealing each individual universe within His own form), He imparted to Brahma (Vidhi) the knowledge of His own imperishable Brahman form as well. And the same is stated in Shri Bhagavata — “तावन्त्येव जगन्त्यभूस्तदनु तावत्येव ते रूपिणः…” (Bhā. 10-14-18) and “क्वाहं तमो महदह…” (Bhā. 10-14-2) etc. **॥12॥**
+**अक्रुरायेति** . When Akrurji entered the waters of the Kalindi (Yamuna), the Lord revealed His Sheshashayi form to him—manifesting as the one reclining upon the serpent Sheshanaga. Similarly, while showing glimpses of countless universes—where in each universe, different associates, devotees, and creators like Brahma were visible—the Lord revealed His state of Aksharata (imperishability) or His Aksharbrahman form to Brahma. Regarding this, it is stated in the Shrimad Bhagavata Mahapurana: 'tāvanty eva jaganty abhūḥ' (SB 10.14.18) and 'kvāhaṁ tamo mahad-aha...' (SB 10.14.11), and so on. **॥12॥**
 
 
-> **तावन्त्येव जगन्त्यभूस्तदनु तावत्येव ते रूपिणः । तावन्त्येव च भूतसर्गनिवहास्तत्रैव ते भूरिशः ।** \
-> **दृष्ट्वैतत् त्वदनन्तवीर्यमभितो ब्रह्मा विस्मितोऽभूत् पुनः । किं मे शक्तिरिति स्वकर्मणि पुनः स्तोतुं प्रवृत्तोऽभवत् ॥ (भा. १०-१४-१८)**\
+> **अद्यैव त्वदृतेऽस्य किं मम न ते मायात्वमादर्शितमेकोऽसि प्रथमं ततो व्रजसुहृद्वत्साः समस्ता अपि ।।**\
+> **तावन्तोऽसि चतुर्भुजास्तदखिलैः साकं मयोपासितास्तावन्त्येव जगन्त्यभूस्तदमितं ब्रह्माद्वयं शिष्यते ॥ (भा. १०-१४-१८)**\
 Meaning:\
-As many universes manifested, so many of Your forms also manifested, and so many hosts of living beings also appeared. Seeing Your infinite power in this way, Brahma became extremely astonished and, realizing his own limited power, again engaged in praising You.
+O Lord! Today You have shown me the wonderful nature of Your Maya (illusory power)—now, what is left for me to see other than You? First, You were alone; then, You Yourself became all the cowherd boys, calves, and everything else in Vraj. After that, You assumed the same number of four-armed forms (Lord Vishnu), all of whom I worshipped simultaneously. Along with them, an equal number of universes were also revealed. In the end, only that infinite, Brahman remains (which is You alone)..
 
->**क्वाहं तमो-महदहं किमिहास्मि किं वा किं स्वप्न इदृगनुभवोऽयमिहास्ति किं वा ।**\
-**इत्थं विचिन्त्य मनसा भगवाननन्तो मायां व्युदस्य परमां परमार्थमीयात् ॥ (भा. १०-१४-२)**\
+>**क्वाहं तमोमहादहंखराग्निवार्भूसंवेष्टिताण्डघटसप्तवितस्तिकाय:।**\
+**त्राक्तवेदिऋग्विधाविगणिताण्डप्राणुचर्य-वाताध्व्रोमविवर्स्य च ते महित्वम् ॥ (भा. १०-१४-११)**\
 Meaning:\
-(Brahma thinks) Who am I? What is this great ignorance? What am I doing here? Is this experience a dream or real? Thus contemplating in his mind, the infinite Lord sets aside illusion and proceeds toward the supreme reality.
+Lord Brahma said: 'What am I? A small creature with a body measuring only seven spans (vitasti), confined within this pot-like universe made of material elements—ego, sky, air, fire, water, and earth. And how great is Your majesty! Countless universes, like tiny atoms of dust, drift through the pores of Your skin and pass out through them like particles of dust in the wind.
 
 ---
 
